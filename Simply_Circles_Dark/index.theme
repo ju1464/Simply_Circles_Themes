@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Dark
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Dark
+GtkTheme=Simply-Circles_Dark
+MetacityTheme=Simply_Circles
+IconTheme=Simply White Circles
+ButtonLayout=:minimize,maximize,close
