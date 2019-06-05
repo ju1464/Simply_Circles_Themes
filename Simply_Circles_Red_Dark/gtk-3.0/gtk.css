@@ -1202,7 +1202,7 @@ headerbar {
   min-height: 48px;
   padding: 0 6px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24), inset 0 1px rgba(255, 255, 255, 0.1);
-  background-color: #800C0C;
+  background-color: #811A10;
   color: #ebebeb;
 }
 
@@ -1538,7 +1538,7 @@ window.csd > .titlebar:not(headerbar) {
 }
 
 .titlebar:not(headerbar) > separator {
-  background-color: #800C0C;
+  background-color: #811A10;
   background-image: image(rgba(0, 0, 0, 0.26));
 }
 
@@ -1712,7 +1712,7 @@ menubar,
 .menubar {
   -GtkWidget-window-dragging: true;
   padding: 0;
-  background-color: #800C0C;
+  background-color: #811A10;
 }
 
 menubar > menuitem,
@@ -3487,7 +3487,7 @@ tooltip {
 }
 
 tooltip.background {
-  background-color: rgba(128, 12, 12, 0.9);
+  background-color: rgba(129, 26, 16, 0.9);
   color: #ebebeb;
 }
 
@@ -3669,7 +3669,7 @@ messagedialog.csd decoration {
   margin: 0;
   border-radius: 0;
   box-shadow: none;
-  background-color: #800C0C;
+  background-color: #811A10;
 }
 
 .view selection, .view:selected, flowbox flowboxchild:selected, label selection, spinbutton:not(.vertical) selection,
@@ -4785,7 +4785,7 @@ window.background.chromium textview {
 }
 
 tooltip.background.chromium {
-  background-color: #800c0c;
+  background-color: #811a10;
 }
 
 /***********
@@ -4984,7 +4984,7 @@ UnityDecoration .top {
   border-style: none;
   border-radius: 4px 4px 0 0;
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.1);
-  background-color: #800C0C;
+  background-color: #811A10;
   color: #ebebeb;
 }
 
@@ -5013,7 +5013,7 @@ UnityDecoration .menuitem:hover {
 
 UnityPanelWidget,
 .unity-panel {
-  background-color: #600000;
+  background-color: #610000;
   color: #ebebeb;
 }
 
@@ -5049,7 +5049,7 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: #600000;
+  background-color: #610000;
   font-weight: 500;
 }
 
@@ -5372,7 +5372,7 @@ na-tray-applet {
 /* multimedia OSD */
 MsdOsdWindow.background.osd {
   border-radius: 4px;
-  background-color: rgba(128, 12, 12, 0.9);
+  background-color: rgba(129, 26, 16, 0.9);
   color: #ebebeb;
 }
 
@@ -5663,7 +5663,7 @@ popover.background.places-menu row {
 
 .budgie-panel {
   transition: background-color 100ms cubic-bezier(0, 0, 0.2, 1);
-  background-color: #600000;
+  background-color: #610000;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 500;
 }
@@ -6020,7 +6020,7 @@ calendar.raven-calendar:selected {
  ***************/
 .xfce4-panel.background {
   border: none;
-  background-color: #600000;
+  background-color: #610000;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 500;
 }
@@ -6277,7 +6277,7 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_title #ebebeb;
 @define-color wm_unfocused_title rgba(235, 235, 235, 0.7);
 @define-color wm_highlight rgba(255, 255, 255, 0.1);
-@define-color wm_bg #800C0C;
+@define-color wm_bg #811A10;
 /*
 FIXME this is really an API */
 @define-color content_view_bg #1c1c1c;

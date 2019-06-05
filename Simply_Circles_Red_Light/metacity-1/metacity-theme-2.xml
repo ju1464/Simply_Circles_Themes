@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>Simply_Circles</name>
-  <author>ju1464</author>
+  <name>oomox-Simply_Circles_Red_Light</name>
+  <author>nana-4</author>
   <copyright>GPL</copyright>
-  <date>2019</date>
-  <description>Simply_Circles Metacity theme</description>
+  <date>2018</date>
+  <description>oomox-Simply_Circles_Red_Light Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar" value="#800C0C"/>
-<constant name="C_highlight" value="blend/#800C0C/#ffffff/0.1"/>
+<constant name="C_titlebar" value="#811A10"/>
+<constant name="C_highlight" value="blend/#811A10/#ffffff/0.1"/>
 <constant name="C_title_focused" value="#ffffff"/>
-<constant name="C_title_unfocused" value="blend/#800C0C/#ffffff/0.7"/>
+<constant name="C_title_unfocused" value="blend/#811A10/#ffffff/0.7"/>
 
 
 <!-- geometries -->

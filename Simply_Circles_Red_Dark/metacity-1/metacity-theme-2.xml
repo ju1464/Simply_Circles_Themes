@@ -11,10 +11,10 @@
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar" value="#800C0C"/>
-<constant name="C_highlight" value="blend/#800C0C/#ebebeb/0.1"/>
+<constant name="C_titlebar" value="#811A10"/>
+<constant name="C_highlight" value="blend/#811A10/#ebebeb/0.1"/>
 <constant name="C_title_focused" value="#ebebeb"/>
-<constant name="C_title_unfocused" value="blend/#800C0C/#ebebeb/0.7"/>
+<constant name="C_title_unfocused" value="blend/#811A10/#ebebeb/0.7"/>
 
 
 <!-- geometries -->
