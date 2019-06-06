@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Cyan Light Envolved
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Cyan Light Envolved
+GtkTheme=Simply-Circles_Cyan_Light_Envolved
+MetacityTheme=Simply_Circles
+IconTheme=Simply Cyan Circles
+ButtonLayout=:minimize,maximize,close

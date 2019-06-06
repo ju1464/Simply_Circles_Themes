@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Red Dark Envolved
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Red Dark Envolved
+GtkTheme=Simply-Circles_Red_Dark_Envolved
+MetacityTheme=Simply_Circles
+IconTheme=Simply Red Circles
+ButtonLayout=:minimize,maximize,close
