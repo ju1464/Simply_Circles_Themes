@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Orange Light Envolved
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Orange Light Envolved
+GtkTheme=Simply-Circles_Orange_Light_Envolved
+MetacityTheme=Simply_Circles
+IconTheme=Simply Orange Circles
+ButtonLayout=:minimize,maximize,close

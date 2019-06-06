@@ -3303,7 +3303,7 @@ stacksidebar row > label {
  * File chooser *
  ****************/
 row image.sidebar-icon {
-  color: #2B9B8E;
+  color: black;
 }
 
 placessidebar > viewport.frame {
@@ -3325,7 +3325,6 @@ placessidebar row {
   margin: -1px 4px;
   padding: 0;
   border-radius: 6px;
-  color: black;
 }
 
 placessidebar row > revealer {
@@ -3344,21 +3343,25 @@ placessidebar row:disabled {
 placessidebar row image.sidebar-icon:dir(ltr) {
   padding-left: -14px;
   padding-right: 12px;
+  color: white;
 }
     
 placessidebar row image.sidebar-icon:dir(rtl) {
   padding-left: 14px;
   padding-right: 12px;
+  color: white;
 }
   
 placessidebar row label.sidebar-label:dir(ltr) {
   padding-right: 2px;
   padding-left: 15px;
+  color: black;
 }
   
 placessidebar row label.sidebar-label:dir(rtl) {
   padding-left: 2px;
   padding-right: 15px;
+  color: black;
 }
 
 placessidebar row.sidebar-placeholder-row {

@@ -3303,7 +3303,7 @@ stacksidebar row > label {
  * File chooser *
  ****************/
 row image.sidebar-icon {
-  color: white;
+  color: black;
 }
 
 placessidebar > viewport.frame {
@@ -3312,7 +3312,7 @@ placessidebar > viewport.frame {
 
 placessidebar.sidebar {
   background-color: transparent;
-  background-image: linear-gradient(to right, #000000 40px, #ff7f2a 35px, #ff7f2a 36px, #ff7f2a 36px, #ff7f2a 99%, #ff7f2a 100%);
+  background-image: linear-gradient(to right, #ffffff 40px, #ff7f2a 35px, #ff7f2a 36px, #ff7f2a 36px, #ff7f2a 99%, #ff7f2a 100%);
 }
 
 placessidebar list {

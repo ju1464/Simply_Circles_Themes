@@ -3303,7 +3303,7 @@ stacksidebar row > label {
  * File chooser *
  ****************/
 row image.sidebar-icon {
-  color: black;
+  color: white;
 }
 
 placessidebar > viewport.frame {
@@ -3312,7 +3312,7 @@ placessidebar > viewport.frame {
 
 placessidebar.sidebar {
   background-color: transparent;
-  background-image: linear-gradient(to right, #ffffff 40px, #ff7f2a 35px, #ff7f2a 36px, #ff7f2a 36px, #ff7f2a 99%, #ff7f2a 100%);
+  background-image: linear-gradient(to right, #000000 40px, #ff7f2a 35px, #ff7f2a 36px, #ff7f2a 36px, #ff7f2a 99%, #ff7f2a 100%);
 }
 
 placessidebar list {
@@ -3324,7 +3324,6 @@ placessidebar row {
   margin: -1px 4px;
   padding: 0;
   border-radius: 6px;
-  color: black;
 }
 
 placessidebar row > revealer {
@@ -3353,11 +3352,13 @@ placessidebar row image.sidebar-icon:dir(rtl) {
 placessidebar row label.sidebar-label:dir(ltr) {
   padding-right: 2px;
   padding-left: 15px;
+  color: black;
 }
   
 placessidebar row label.sidebar-label:dir(rtl) {
   padding-left: 2px;
   padding-right: 15px;
+  color: black;
 }
 
 placessidebar row.sidebar-placeholder-row {

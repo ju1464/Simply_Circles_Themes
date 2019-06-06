@@ -3324,7 +3324,6 @@ placessidebar row {
   margin: -1px 4px;
   padding: 0;
   border-radius: 6px;
-  color: black;
 }
 
 placessidebar row > revealer {
@@ -3353,11 +3352,13 @@ placessidebar row image.sidebar-icon:dir(rtl) {
 placessidebar row label.sidebar-label:dir(ltr) {
   padding-right: 2px;
   padding-left: 15px;
+  color: black;
 }
   
 placessidebar row label.sidebar-label:dir(rtl) {
   padding-left: 2px;
   padding-right: 15px;
+  color: black;
 }
 
 placessidebar row.sidebar-placeholder-row {
