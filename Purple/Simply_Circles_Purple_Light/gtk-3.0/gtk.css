@@ -6021,7 +6021,7 @@ calendar.raven-calendar:selected {
  ***************/
 .xfce4-panel.background {
   border: none;
-  background-color: #440c44;
+  background-color: #1c1c1c;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 500;
 }
