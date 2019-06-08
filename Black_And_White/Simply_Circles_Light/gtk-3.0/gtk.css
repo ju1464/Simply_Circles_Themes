@@ -5667,13 +5667,13 @@ popover.background.places-menu row {
 
 .budgie-panel {
   transition: background-color 100ms cubic-bezier(0, 0, 0.2, 1);
-  background-color: #000000;
-  color: rgba(255, 255, 255, 0.7);
+  background-color: #ffffff;
+  color: #1a1a1a;
   font-weight: 500;
 }
 
 .budgie-panel.transparent {
-  background-color: black;
+  background-color: white;
 }
 
 .budgie-panel button {
@@ -5681,6 +5681,7 @@ popover.background.places-menu row {
   min-width: 16px;
   padding: 0;
   border-radius: 0;
+  color: #1a1a1a
 }
 
 .budgie-panel button:checked {
