@@ -1009,7 +1009,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* TOP BAR */
 #panel {
-  background-color: #1c1c1c;
+  background-color: rgba(255, 255, 255, 0.6);
   /* transition from solid to transparent */
   transition-duration: 250ms;
   font-weight: bold;
@@ -1027,7 +1027,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 #panel .panel-corner {
   -panel-corner-radius: 0;
-  -panel-corner-background-color: #1c1c1c;
+  -panel-corner-background-color: rgba(255, 255, 255, 0.6);
   -panel-corner-border-width: 2px;
   -panel-corner-border-color: transparent;
 }
@@ -1046,7 +1046,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   -natural-hpadding: 12px;
   -minimum-hpadding: 6px;
   font-weight: bold;
-  color: rgba(255, 255, 255, 0.7);
+  color: black;
   text-shadow: none;
   transition-duration: 100ms;
 }
@@ -1064,7 +1064,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel .panel-button:hover {
-  color: white;
+  color: black;
   text-shadow: none;
 }
 
@@ -1074,7 +1074,13 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   icon-shadow: none;
 }
 
-#panel .panel-button:active, #panel .panel-button:overview, #panel .panel-button:focus, #panel .panel-button:checked {
+#panel .panel-button:active, #panel .panel-button:focus, #panel .panel-button:checked {
+  background-color: rgba(0, 0, 0, 0.01);
+  box-shadow: inset 0 -2px 0px black;
+  color: black;
+}
+
+#panel .panel-button:overview {
   background-color: rgba(0, 0, 0, 0.01);
   box-shadow: inset 0 -2px 0px white;
   color: white;
@@ -1657,21 +1663,36 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .window-close {
-  height: 36px;
-  width: 36px;
-  -shell-close-overlap: 18px;
-  -st-background-image-shadow: 0 1px 1.5px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.24);
-  background-image: url("assets/window-close.svg");
-  background-size: 36px;
+  background-color: transparent;
+  background-image: url("assets/window-close-active.svg");
+  background-size: 32px;
+  border: none;
+  box-shadow: none;
+  color: transparent;
+  height: 32px;
+  width: 32px;
 }
 
 .window-close:hover {
-  -st-background-image-shadow: 0 3px 3px rgba(0, 0, 0, 0.24), 0 3px 3px rgba(0, 0, 0, 0.345);
+  background-color: transparent;
   background-image: url("assets/window-close.svg");
+  background-size: 32px;
+  border: none;
+  box-shadow: none;
+  color: transparent;
+  height: 32px;
+  width: 32px;
 }
 
 .window-close:active {
+  background-color: transparent;
   background-image: url("assets/window-close-active.svg");
+  background-size: 32px;
+  border: none;
+  box-shadow: none;
+  color: transparent;
+  height: 32px;
+  width: 32px;
 }
 
 .window-close:rtl {
@@ -3118,7 +3139,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* Dash to Dock */
 #dashtodockContainer #dash {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 #dashtodockContainer:overview #dash {
