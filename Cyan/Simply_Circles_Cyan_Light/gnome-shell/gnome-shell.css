@@ -753,19 +753,19 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .popup-menu .popup-menu-item:checked {
   background-color: #5beedc;
-  color: white;
+  color: black;
   box-shadow: 0 0 transparent;
   font-weight: normal;
 }
 
 .popup-menu .popup-menu-item:checked.selected {
   background-color: #68efdf;
-  color: white;
+  color: black;
 }
 
 .popup-menu .popup-menu-item:checked:active {
   background-color: #7cf1e3;
-  color: white !important;
+  color: black !important;
 }
 
 .popup-menu .popup-menu-item:checked:insensitive {
@@ -1341,7 +1341,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-day-base:selected {
-  color: white;
+  color: black;
   background-color: #5beedc;
   border-color: transparent;
 }
