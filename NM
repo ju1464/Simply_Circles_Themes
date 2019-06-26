@@ -10,4 +10,31 @@ Pend--- cambiar de negro a blanco busqueda texto nautilus.
 
 Pend--- botones circulo color xfwm4.
 
-12 junio - creado gnome shell.
+problemas en textboxes con firefox en gnome en los temas oscuros.
+
+problema seleccion boton derecho en plank. (menu menuitem:hover)
+menu menuitem,
+
+.menu menuitem,
+.context-menu menuitem {
+  transition: background-color 100ms cubic-bezier(0, 0, 0.2, 1);---->cambiar 100 por 0.
+  min-height: 20px;
+  min-width: 40px;
+  padding: 4px 8px;
+  font: initial;
+  text-shadow: none;
+}
+
+      menu menuitem:hover,
+.menu menuitem:hover,
+.context-menu menuitem:hover {
+  transition: none;
+  background-color: -------------;
+  color: --------
+}
+
+menu menuitem:hover accelerator,
+.menu menuitem:hover accelerator,
+.context-menu menuitem:hover accelerator {
+  color: --------;
+}
