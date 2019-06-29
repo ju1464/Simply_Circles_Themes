@@ -1776,7 +1776,14 @@ menu menuitem:hover,
 .menu menuitem:hover,
 .context-menu menuitem:hover {
   transition: none;
-  background-color: rgba(28, 28, 28, 0.12);
+  background-color: transparent;
+  color: #FF7F2A;
+}
+
+menu menuitem:hover accelerator,
+.menu menuitem:hover accelerator,
+.context-menu menuitem:hover accelerator {
+  color: #FF7F2A;
 }
 
 menu menuitem:disabled,
