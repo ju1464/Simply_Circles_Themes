@@ -5060,7 +5060,7 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: #0b7b6e;
+  background-color: black;
   font-weight: 500;
 }
 
@@ -5139,7 +5139,7 @@ MatePanelAppletFrameDBus {
 }
 
 .mate-panel-menu-bar #tasklist-button:checked {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), currentColor 100%, transparent 0%) 0 0 2/0 0 2px;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #5BEEDC 100%, transparent 0%) 0 0 2/0 0 2px;
 }
 
 .mate-panel-menu-bar #tasklist-button image:dir(ltr), .mate-panel-menu-bar #tasklist-button label:dir(rtl) {

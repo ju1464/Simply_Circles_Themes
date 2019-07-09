@@ -654,11 +654,11 @@ button.flat.text-button.image-button {
   -gtk-outline-radius: 4px;
 }
 
-infobar.info button.flat, infobar.question button.flat, infobar.warning button.flat, infobar.error button.flat, .mate-panel-menu-bar button, .budgie-panel button, .raven stackswitcher.linked > button, .raven-mpris button.image-button, .xfce4-panel.background button {
+infobar.info button.flat, infobar.question button.flat, infobar.warning button.flat, infobar.error button.flat, .budgie-panel button, .raven stackswitcher.linked > button, .raven-mpris button.image-button, .xfce4-panel.background button {
   color: rgba(255, 255, 255, 0.7);
 }
 
-infobar.info button.flat:hover, infobar.question button.flat:hover, infobar.warning button.flat:hover, infobar.error button.flat:hover, .mate-panel-menu-bar button:hover, .budgie-panel button:hover, .raven stackswitcher.linked > button:hover, .raven-mpris button.image-button:hover, .xfce4-panel.background button:hover, infobar.info button.flat:active, infobar.question button.flat:active, infobar.warning button.flat:active, infobar.error button.flat:active, .mate-panel-menu-bar button:active, .budgie-panel button:active, .raven stackswitcher.linked > button:active, .raven-mpris button.image-button:active, .xfce4-panel.background button:active {
+infobar.info button.flat:hover, infobar.question button.flat:hover, infobar.warning button.flat:hover, infobar.error button.flat:hover,.budgie-panel button:hover, .raven stackswitcher.linked > button:hover, .raven-mpris button.image-button:hover, .xfce4-panel.background button:hover, infobar.info button.flat:active, infobar.question button.flat:active, infobar.warning button.flat:active, infobar.error button.flat:active, .mate-panel-menu-bar button:active, .budgie-panel button:active, .raven stackswitcher.linked > button:active, .raven-mpris button.image-button:active, .xfce4-panel.background button:active {
   color: white;
 }
 
@@ -666,7 +666,7 @@ infobar.info button.flat:disabled, infobar.question button.flat:disabled, infoba
   color: rgba(255, 255, 255, 0.3);
 }
 
-infobar.info button.flat:checked, infobar.question button.flat:checked, infobar.warning button.flat:checked, infobar.error button.flat:checked, .mate-panel-menu-bar button:checked, .budgie-panel button:checked, .raven stackswitcher.linked > button:checked, .raven-mpris button.image-button:checked, .xfce4-panel.background button:checked {
+infobar.info button.flat:checked, infobar.question button.flat:checked, infobar.warning button.flat:checked, infobar.error button.flat:checked, .budgie-panel button:checked, .raven stackswitcher.linked > button:checked, .raven-mpris button.image-button:checked, .xfce4-panel.background button:checked {
   background-color: rgba(255, 255, 255, 0.3);
   color: white;
 }
@@ -5058,7 +5058,7 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: #000000;
+  background-color: white;
   font-weight: 500;
 }
 
@@ -5071,10 +5071,16 @@ UnityPanelWidget:backdrop,
   min-width: 16px;
   padding: 0;
   border-radius: 0;
+  color: black;
+}
+
+.mate-panel-menu-bar button:hover {
+  color: rgba(28, 28, 28, 0.8);
 }
 
 .mate-panel-menu-bar button:checked {
   background-color: rgba(255, 255, 255, 0.12);
+  color: black;
 }
 
 PanelToplevel.horizontal > grid > button {
