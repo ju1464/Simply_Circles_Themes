@@ -6052,7 +6052,7 @@ calendar.raven-calendar:selected {
 }
 
 .xfce4-panel.background .tasklist button:checked {
-  border-image: image(currentColor) 0 0 2/0 0 2px;
+  border-image: image(#5BEEDC) 0 0 2/0 0 2px;
 }
 
 .xfce4-panel.background .tasklist button image {

@@ -10,7 +10,24 @@ Pend--- cambiar de negro a blanco busqueda texto nautilus. (en temas claros)****
 
 Pend--- botones circulo color xfwm4.
 
+Pend--- Revisar mate, budgie y xfce4 panels.
+
+------------------------------------------------------------------------------------------
+
 problemas en textboxes con firefox en gnome en los temas oscuros.
+
+	Fix entries issues of dark version on Firefox
+
+	Use "light theme" for webs on Firefox.
+
+    		Go to about:config,
+
+    		create a pref called widget.content.gtk-theme-override of type String,
+
+	        and give it a value of Simply Circles light. This will fix it.
+
+---------------------------------------------------------------------------------------
+
 
 problema seleccion boton derecho en plank. (menu menuitem:hover)
 menu menuitem,
