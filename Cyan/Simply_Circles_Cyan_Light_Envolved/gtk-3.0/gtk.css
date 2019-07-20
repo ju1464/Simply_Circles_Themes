@@ -2242,7 +2242,7 @@ scrollbar slider:hover {
 }
 
 scrollbar slider:active {
-  background-color: #1c1c1c;
+  background-color: #5beedc;
 }
 
 scrollbar slider:disabled {

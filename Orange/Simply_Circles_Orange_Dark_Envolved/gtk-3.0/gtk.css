@@ -1257,7 +1257,7 @@ headerbar button:not(.suggested-action):not(.destructive-action):disabled {
 
 .titlebar:not(headerbar) button:not(.suggested-action):not(.destructive-action):checked,
 headerbar button:not(.suggested-action):not(.destructive-action):checked {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), currentColor 100%, transparent 0%) 0 0 2/0 0 2px;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #ff7f2a 100%, transparent 0%) 0 0 2/0 0 2px;
   color: #ebebeb;
 }
 
@@ -2242,7 +2242,7 @@ scrollbar slider:hover {
 }
 
 scrollbar slider:active {
-  background-color: #ebebeb;
+  background-color: #ff7f2a;
 }
 
 scrollbar slider:disabled {
