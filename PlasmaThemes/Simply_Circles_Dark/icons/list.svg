@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="100%"
+   height="100%"
+   sodipodi:docname="list.svg">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="4.1783583"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3046"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <g
+     transform="matrix(1.3750294,0,0,1.3750294,-104.50815,-77.001731)"
+     id="list-add">
+    <rect
+       style="fill:none;stroke-width:3.77952766"
+       width="15.99874"
+       height="15.99874"
+       x="76.015747"
+       y="56.00021"
+       id="rect11" />
+    <rect
+       style="fill:none;stroke-width:3.77952766"
+       width="12"
+       height="12"
+       x="78.018898"
+       y="58.003353"
+       id="rect13" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1"
+       d="m 82.999996,57.999966 v 5 h -5 v 2 h 5 v 5 h 2 v -5 h 5 v -2 h -5 v -5 z"
+       id="path15"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="matrix(0.6875,0,0,0.6875,6.886403,0.011417)"
+     id="list-remove">
+    <rect
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none"
+       id="rect2994-5"
+       width="32"
+       height="32"
+       x="21.999998"
+       y="1.754521e-05" />
+    <path
+       id="path2-36-3"
+       d="m 38.052928,4.5138115 a 11.51,11.51 0 1 0 11.5,11.5000005 c 0,-6.3399998 -5.16,-11.5000005 -11.5,-11.5000005 z M 28.652927,16.013812 A 9.4,9.4 0 0 1 44.172928,8.8938115 L 30.932927,22.123812 a 9.35,9.35 0 0 1 -2.28,-6.11 z m 9.400001,9.39 a 9.34,9.34 0 0 1 -5.580001,-1.84 l 13.130001,-13.13 a 9.34,9.34 0 0 1 1.84,5.58 9.4,9.4 0 0 1 -9.4,9.39 z"
+       style="fill:#e6e6e6"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

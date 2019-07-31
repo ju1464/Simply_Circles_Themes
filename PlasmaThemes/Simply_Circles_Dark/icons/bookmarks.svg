@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54"
+   height="32"
+   id="svg3613"
+   version="1.1"
+   sodipodi:docname="bookmarks.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview12"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="9.6296296"
+     inkscape:cx="27"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3613">
+    <sodipodi:guide
+       position="38.007692,30.426923"
+       orientation="1,0"
+       id="guide828"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="53.896154,15.992308"
+       orientation="0,1"
+       id="guide830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21.703846,11.007692"
+       orientation="0,1"
+       id="guide832"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.007692,21.703846"
+       orientation="1,0"
+       id="guide834"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3615">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }
+</style>
+  </defs>
+  <g
+     id="bookmarks">
+    <rect
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none"
+       id="rect2994"
+       width="32"
+       height="32"
+       x="21.999998"
+       y="1.754521e-05" />
+    <path
+       id="path838"
+       d="m 33.209135,3.3115386 c 0,0 -1.591826,0 -1.591826,1.591825 V 28.688462 l 6.344231,-6.344231 6.344231,6.344231 V 4.8918288 c 0,-1.5802902 -1.591826,-1.5802902 -1.591826,-1.5802902 z"
+       style="fill:#e6e6e6;stroke-width:1.15349662" />
+  </g>
+  <g
+     id="22-22-bookmarks">
+    <rect
+       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none"
+       id="rect3028"
+       width="22"
+       height="22"
+       x="2.2758499e-16"
+       y="10" />
+    <path
+       id="path838-3"
+       d="m 7.7457786,12.344235 c 0,0 -1.0900076,0 -1.0900076,1.090006 v 16.286917 l 4.344231,-4.344231 4.344231,4.344231 V 13.426343 c 0,-1.082108 -1.090006,-1.082108 -1.090006,-1.082108 z"
+       style="fill:#e6e6e6;stroke-width:0.78986013"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
