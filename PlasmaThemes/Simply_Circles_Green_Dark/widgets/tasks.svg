@@ -39,9 +39,9 @@
      inkscape:window-height="717"
      id="namedview674"
      showgrid="false"
-     inkscape:zoom="1.048"
+     inkscape:zoom="4.192"
      inkscape:cx="54.5"
-     inkscape:cy="62.5"
+     inkscape:cy="62.619275"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -522,57 +522,57 @@
   </g>
   <g
      id="attention-bottom"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect115"
        width="14"
        height="3"
        x="3"
        y="101" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path117"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="attention-left"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect120"
        width="3"
        height="14"
        x="1"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path122"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="attention-right"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect125"
        width="3"
        height="14"
        x="18"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path127"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,0.407407,82.58462)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="rect130"
        width="27"
        height="13"
@@ -582,9 +582,9 @@
   <g
      id="attention-top"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect133"
        width="14"
        height="3"
@@ -593,9 +593,9 @@
     <g
        id="g137"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       style="fill:#ff9955">
+       style="fill:#186a3b;fill-opacity:1">
       <path
-         style="fill:#ff9955"
+         style="fill:#186a3b;fill-opacity:1"
          id="path135"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -604,64 +604,64 @@
   <g
      id="attention-topleft"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect140"
        width="3"
        height="3"
        x="1"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path142"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="attention-topright"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect145"
        width="3"
        height="3"
        x="18"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path147"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="attention-bottomleft"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect150"
        width="3"
        height="3"
        x="1"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path152"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="attention-bottomright"
      transform="translate(-1,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect155"
        width="3"
        height="3"
        x="18"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path157"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -1103,25 +1103,25 @@
   <g
      id="north-progress-bottom"
      transform="translate(21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect296"
        width="14"
        height="3"
        x="3"
        y="17" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path298"
        d="m 3,17 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="north-progress-left"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect301"
        width="3"
        height="14"
@@ -1131,9 +1131,9 @@
   <g
      id="north-progress-right"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect304"
        width="3"
        height="14"
@@ -1143,9 +1143,9 @@
   <g
      id="north-progress-center"
      transform="matrix(0.51851851,0,0,1.0769231,21.407407,-1.41538)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect307"
        width="27"
        height="13"
@@ -1155,9 +1155,9 @@
   <g
      id="north-progress-top"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect310"
        width="14"
        height="3"
@@ -1167,9 +1167,9 @@
   <g
      id="north-progress-topleft"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect313"
        width="3"
        height="3"
@@ -1179,9 +1179,9 @@
   <g
      id="north-progress-topright"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect316"
        width="3"
        height="3"
@@ -1191,32 +1191,32 @@
   <g
      id="north-progress-bottomleft"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect319"
        width="3"
        height="3"
        x="1"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path321"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="north-progress-bottomright"
      transform="translate(20,-63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect324"
        width="3"
        height="3"
        x="18"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path326"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -1359,57 +1359,57 @@
   <g
      id="north-attention-bottom"
      transform="translate(21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect373"
        width="14"
        height="3"
        x="3"
        y="101" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path375"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="north-attention-left"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect378"
        width="3"
        height="14"
        x="1"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path380"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="north-attention-right"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect383"
        width="3"
        height="14"
        x="18"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path385"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="north-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,21.407407,82.58462)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="rect388"
        width="27"
        height="13"
@@ -1419,9 +1419,9 @@
   <g
      id="north-attention-top"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect391"
        width="14"
        height="3"
@@ -1430,9 +1430,9 @@
     <g
        id="g395"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       style="fill:#ff9955">
+       style="fill:#186a3b;fill-opacity:1">
       <path
-         style="fill:#ff9955"
+         style="fill:#186a3b;fill-opacity:1"
          id="path393"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -1441,64 +1441,64 @@
   <g
      id="north-attention-topleft"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect398"
        width="3"
        height="3"
        x="1"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path400"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="north-attention-topright"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect403"
        width="3"
        height="3"
        x="18"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path405"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="north-attention-bottomleft"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect408"
        width="3"
        height="3"
        x="1"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path410"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="north-attention-bottomright"
      transform="translate(20,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect413"
        width="3"
        height="3"
        x="18"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path415"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -1942,9 +1942,9 @@
   </g>
   <g
      id="progress-top"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect553"
        width="14"
        height="3"
@@ -1952,7 +1952,7 @@
        y="-3"
        transform="scale(1,-1)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path555"
        d="M 3,3 V 2 1 h 14 v 1 1 z" />
   </g>
@@ -1963,7 +1963,7 @@
      x="0"
      y="-17"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;fill:#ff9955" />
+     style="opacity:0.00100002;fill:#186a3b;fill-opacity:1" />
   <rect
      id="progress-right"
      width="3"
@@ -1971,7 +1971,7 @@
      x="17"
      y="-17"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;fill:#ff9955" />
+     style="opacity:0.00100002;fill:#186a3b;fill-opacity:1" />
   <rect
      id="progress-center"
      width="14"
@@ -1979,7 +1979,7 @@
      x="3"
      y="-17"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;stroke-width:0.74726474;fill:#ff9955" />
+     style="opacity:0.00100002;stroke-width:0.74726474;fill:#186a3b;fill-opacity:1" />
   <rect
      id="progress-bottom"
      width="14"
@@ -1987,7 +1987,7 @@
      x="3"
      y="-20"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;fill:#ff9955" />
+     style="opacity:0.00100002;fill:#186a3b;fill-opacity:1" />
   <rect
      id="progress-bottomleft"
      width="3"
@@ -1995,7 +1995,7 @@
      x="0"
      y="-20"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;fill:#ff9955" />
+     style="opacity:0.00100002;fill:#186a3b;fill-opacity:1" />
   <rect
      id="progress-bottomright"
      width="3"
@@ -2003,12 +2003,12 @@
      x="17"
      y="-20"
      transform="scale(1,-1)"
-     style="opacity:0.00100002;fill:#ff9955" />
+     style="opacity:0.00100002;fill:#186a3b;fill-opacity:1" />
   <g
      id="progress-topleft"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect576"
        width="3"
        height="3"
@@ -2016,15 +2016,15 @@
        y="-3"
        transform="scale(1,-1)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path578"
        d="M 1,3 V 2 C 1,2 1,1 2,1 H 3 V 2 3 H 2 Z" />
   </g>
   <g
      id="progress-topright"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.00100002;fill:#ff9955"
+       style="opacity:0.00100002;fill:#186a3b;fill-opacity:1"
        id="rect581"
        width="3"
        height="3"
@@ -2032,7 +2032,7 @@
        y="-3"
        transform="scale(1,-1)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path583"
        d="M 17,3 V 2 1 h 1 c 0,0 1,0 1,1 v 1 h -1 z" />
   </g>
@@ -2175,57 +2175,57 @@
   <g
      id="east-attention-bottom"
      transform="translate(42)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect630"
        width="14"
        height="3"
        x="3"
        y="101" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path632"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="east-attention-left"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect635"
        width="3"
        height="14"
        x="1"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path637"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="east-attention-right"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect640"
        width="3"
        height="14"
        x="18"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path642"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="east-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,42.407407,82.58462)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="rect645"
        width="27"
        height="13"
@@ -2235,9 +2235,9 @@
   <g
      id="east-attention-top"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect648"
        width="14"
        height="3"
@@ -2246,9 +2246,9 @@
     <g
        id="g652"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       style="fill:#ff9955">
+       style="fill:#186a3b;fill-opacity:1">
       <path
-         style="fill:#ff9955"
+         style="fill:#186a3b;fill-opacity:1"
          id="path650"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -2257,64 +2257,64 @@
   <g
      id="east-attention-topleft"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect655"
        width="3"
        height="3"
        x="1"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path657"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="east-attention-topright"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect660"
        width="3"
        height="3"
        x="18"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path662"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="east-attention-bottomleft"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect665"
        width="3"
        height="3"
        x="1"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path667"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="east-attention-bottomright"
      transform="translate(41,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect670"
        width="3"
        height="3"
        x="18"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path672"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -2758,9 +2758,9 @@
   </g>
   <g
      id="east-progress-left"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect810"
        width="14"
        height="3"
@@ -2768,7 +2768,7 @@
        y="-45"
        transform="rotate(90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path812"
        d="m 45,3 h -1 -1 v 14 h 1 1 z" />
   </g>
@@ -2779,7 +2779,7 @@
      x="0"
      y="-59"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="east-progress-bottom"
      width="3"
@@ -2787,7 +2787,7 @@
      x="17"
      y="-59"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="east-progress-center"
      width="14"
@@ -2795,7 +2795,7 @@
      x="3"
      y="-59"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="east-progress-right"
      width="14"
@@ -2803,7 +2803,7 @@
      x="3"
      y="-62"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="east-progress-topright"
      width="3"
@@ -2811,7 +2811,7 @@
      x="0"
      y="-62"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="east-progress-bottomright"
      width="3"
@@ -2819,12 +2819,12 @@
      x="17"
      y="-62"
      transform="rotate(90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <g
      id="east-progress-topleft"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect821"
        width="3"
        height="3"
@@ -2832,15 +2832,15 @@
        y="-45"
        transform="rotate(90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path823"
        d="m 45,1 h -1 c 0,0 -1,0 -1,1 v 1 h 1 1 V 2 Z" />
   </g>
   <g
      id="east-progress-bottomleft"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect826"
        width="3"
        height="3"
@@ -2848,7 +2848,7 @@
        y="-45"
        transform="rotate(90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path828"
        d="m 45,17 h -1 -1 v 1 c 0,0 0,1 1,1 h 1 v -1 z" />
   </g>
@@ -2991,57 +2991,57 @@
   <g
      id="west-attention-bottom"
      transform="translate(63)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect875"
        width="14"
        height="3"
        x="3"
        y="101" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path877"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="west-attention-left"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect880"
        width="3"
        height="14"
        x="1"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path882"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="west-attention-right"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect885"
        width="3"
        height="14"
        x="18"
        y="66" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path887"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="west-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,63.407407,82.58462)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="rect890"
        width="27"
        height="13"
@@ -3051,9 +3051,9 @@
   <g
      id="west-attention-top"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect893"
        width="14"
        height="3"
@@ -3062,9 +3062,9 @@
     <g
        id="g897"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       style="fill:#ff9955">
+       style="fill:#186a3b;fill-opacity:1">
       <path
-         style="fill:#ff9955"
+         style="fill:#186a3b;fill-opacity:1"
          id="path895"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -3073,64 +3073,64 @@
   <g
      id="west-attention-topleft"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect900"
        width="3"
        height="3"
        x="1"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path902"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="west-attention-topright"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect905"
        width="3"
        height="3"
        x="18"
        y="63" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path907"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="west-attention-bottomleft"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect910"
        width="3"
        height="3"
        x="1"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path912"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="west-attention-bottomright"
      transform="translate(62,21)"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect915"
        width="3"
        height="3"
        x="18"
        y="80" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path917"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -3574,9 +3574,9 @@
   </g>
   <g
      id="west-progress-right"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect1055"
        width="14"
        height="3"
@@ -3584,7 +3584,7 @@
        y="80"
        transform="rotate(-90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path1057"
        d="m 80,17 h 1 1 V 3 h -1 -1 z" />
   </g>
@@ -3595,7 +3595,7 @@
      x="-20"
      y="66"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="west-progress-top"
      width="3"
@@ -3603,7 +3603,7 @@
      x="-3"
      y="66"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="west-progress-center"
      width="14"
@@ -3611,7 +3611,7 @@
      x="-17"
      y="66"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="west-progress-left"
      width="14"
@@ -3619,7 +3619,7 @@
      x="-17"
      y="63"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="west-progress-bottomleft"
      width="3"
@@ -3627,7 +3627,7 @@
      x="-20"
      y="63"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <rect
      id="west-progress-topleft"
      width="3"
@@ -3635,12 +3635,12 @@
      x="-3"
      y="63"
      transform="rotate(-90)"
-     style="opacity:0.001;fill:#ff9955" />
+     style="opacity:0.001;fill:#186a3b;fill-opacity:1" />
   <g
      id="west-progress-bottomright"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect1066"
        width="3"
        height="3"
@@ -3648,15 +3648,15 @@
        y="80"
        transform="rotate(-90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path1068"
        d="m 80,19 h 1 c 0,0 1,0 1,-1 v -1 h -1 -1 v 1 z" />
   </g>
   <g
      id="west-progress-topright"
-     style="fill:#ff9955">
+     style="fill:#186a3b;fill-opacity:1">
     <rect
-       style="opacity:0.001;fill:#ff9955"
+       style="opacity:0.001;fill:#186a3b;fill-opacity:1"
        id="rect1071"
        width="3"
        height="3"
@@ -3664,7 +3664,7 @@
        y="80"
        transform="rotate(-90)" />
     <path
-       style="fill:#ff9955"
+       style="fill:#186a3b;fill-opacity:1"
        id="path1073"
        d="m 80,3 h 1 1 V 2 c 0,0 0,-1 -1,-1 h -1 v 1 z" />
   </g>
