@@ -1,0 +1,24 @@
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kdeglobals][General]
+ColorScheme=Simply Circles Light
+
+[kdeglobals][Icons]
+Theme=Simply-Black-Circles
+
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Simply_Circles_Light
+
+[plasmarc][Theme]
+name=Simply_Circles_Light
