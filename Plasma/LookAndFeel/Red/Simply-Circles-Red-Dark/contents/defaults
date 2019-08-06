@@ -21,4 +21,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Simply_Circles_Red
 
 [plasmarc][Theme]
-name=Simply_Circles_Red_Dark
+name=Simply-Circles-Red-Dark
