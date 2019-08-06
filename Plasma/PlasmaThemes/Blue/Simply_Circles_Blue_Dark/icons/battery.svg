@@ -129,16 +129,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0891791"
-     inkscape:cx="-62.270027"
-     inkscape:cy="24.050836"
+     inkscape:zoom="8.3567164"
+     inkscape:cx="0.31634042"
+     inkscape:cy="-7.0772398"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
      gridtolerance="10000"
@@ -830,7 +830,8 @@
          style="fill:#da4453;stroke-width:1.18181825;fill-opacity:1" />
     </g>
     <g
-       id="22-22-AcAdapter">
+       id="22-22-AcAdapter"
+       inkscape:label="#g970">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4193-67"
@@ -841,11 +842,12 @@
       <path
          id="path2-3-5"
          d="m 250.46032,431.56695 -6.82364,6.34909 h 3.89454 l -2.9291,5.4491 6.82364,-7.26546 h -2.91272 z"
-         style="fill:#2abb9b;stroke-width:0.81818187;fill-opacity:1"
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.81818187"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="AcAdapter">
+       id="AcAdapter"
+       inkscape:label="#g962">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none"
          id="rect4248-5"
@@ -857,7 +859,7 @@
       <path
          id="path2-3-0-6"
          d="m 170.89804,435.68723 -10.2938,9.57794 h 5.87511 l -4.41869,8.22025 10.2938,-10.96032 h -4.39397 z"
-         style="fill:#2abb9b;stroke-width:1.23427045;fill-opacity:1"
+         style="fill:#c83737;fill-opacity:1;stroke-width:1.23427045"
          inkscape:connector-curvature="0" />
     </g>
     <g

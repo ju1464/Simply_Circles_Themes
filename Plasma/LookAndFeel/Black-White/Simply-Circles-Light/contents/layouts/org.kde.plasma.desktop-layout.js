@@ -27,9 +27,8 @@ var layout = {
                     "Color": "74,117,185"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Color": "28,28,28",
-                    "FillMode": "0",
-                    "Image": "file:///usr/share/wallpapers/PastelHills/contents/images/1920x1080.jpg"
+                    "Color": "invalid",
+                    "Image": "file:///home/usuario/.local/share/wallpapers/SCLightWallpaper.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -45,13 +44,25 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "PreloadWeight": "100",
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
                             "PreloadWeight": "100"
                         },
-                        "/Configuration/Configuration%2FGeneral": {
+                        "/Configuration/Configuration/Configuration%2FGeneral": {
                             "showAppsByName": "true"
                         },
-                        "/Configuration/General": {
+                        "/Configuration/Configuration/General": {
                             "favorites": "preferred://browser,org.kde.discover.desktop,org.kde.kontact.desktop,org.kde.kate.desktop,libreoffice-startcenter.desktop,org.kde.dolphin.desktop,org.kde.ksysguard.desktop,systemsettings.desktop,org.kde.konsole.desktop",
+                            "favoritesPortedToKAstats": "true",
+                            "showAppsByName": "true"
+                        },
+                        "/Configuration/Configuration/Shortcuts": {
+                            "global": "Alt+F1"
+                        },
+                        "/Configuration/General": {
+                            "favorites": "preferred://browser\\,org.kde.discover.desktop\\,org.kde.kontact.desktop\\,org.kde.kate.desktop\\,libreoffice-startcenter.desktop\\,org.kde.dolphin.desktop\\,org.kde.ksysguard.desktop\\,systemsettings.desktop\\,org.kde.konsole.desktop",
                             "favoritesPortedToKAstats": "true",
                             "showAppsByName": "true"
                         },
@@ -70,6 +81,9 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
                             "PreloadWeight": "0"
                         }
                     },
@@ -81,6 +95,9 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
                             "PreloadWeight": "0"
                         }
                     },
@@ -92,7 +109,10 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "5"
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
+                            "PreloadWeight": "31"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"
@@ -103,9 +123,12 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
                             "PreloadWeight": "0"
                         },
-                        "/Configuration/ConfigDialog": {
+                        "/Configuration/Configuration/ConfigDialog": {
                             "DialogHeight": "540",
                             "DialogWidth": "720"
                         }
@@ -118,9 +141,12 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
+                            "immutability": "1"
+                        },
+                        "/Configuration/Configuration": {
                             "PreloadWeight": "0"
                         },
-                        "/Configuration/ConfigDialog": {
+                        "/Configuration/Configuration/ConfigDialog": {
                             "DialogHeight": "540",
                             "DialogWidth": "720"
                         }

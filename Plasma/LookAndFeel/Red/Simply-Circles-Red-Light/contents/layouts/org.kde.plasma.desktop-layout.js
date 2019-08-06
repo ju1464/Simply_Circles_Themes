@@ -13,7 +13,7 @@ var layout = {
                     "wallpaperplugin": "org.kde.image"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "703",
+                    "DialogHeight": "707",
                     "DialogWidth": "1366"
                 },
                 "/Configuration": {
@@ -28,7 +28,7 @@ var layout = {
                 },
                 "/Wallpaper/org.kde.image/General": {
                     "Color": "28,28,28",
-                    "Image": "file:///usr/share/wallpapers/PastelHills/contents/images/1920x1080.jpg"
+                    "Image": "file:///home/usuario/.local/share/wallpapers/SCRedLightWallpaper.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -91,7 +91,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "10"
+                            "PreloadWeight": "31"
                         }
                     },
                     "plugin": "org.kde.plasma.systemtray"

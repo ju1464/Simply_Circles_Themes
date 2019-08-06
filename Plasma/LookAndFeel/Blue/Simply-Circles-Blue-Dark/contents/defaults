@@ -2,13 +2,13 @@
 cursorTheme=breeze_cursors
 
 [kdeglobals][General]
-ColorScheme=Simply Circles Blue Dark
+ColorScheme=SimplyCirclesBlueDark
 
 [kdeglobals][Icons]
 Theme=Simply-Blue-Circles
 
 [kdeglobals][KDE]
-widgetStyle=breeze
+widgetStyle=Breeze
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
