@@ -1,8 +1,6 @@
-8 junio - fixed budgie panel color in light themes. ( solo en tema blanco y negro ).
 
 Pend--- Arreglar botones multimedia xfce4 panel
 
-Pend--- boton firefox.
 
 Pend--- cambar tonalidad en pagers para mejor visualizacion.
 
@@ -12,41 +10,8 @@ Pend----- varias mierdas en raven (Budgie) sobre todo letras temas claros.
 
 Pend--- cambiar de negro a blanco busqueda texto nautilus. (en temas claros)**************  
 
-headerbar entry,
-headerbar spinbutton,
-headerbar button {
-  margin-top: 6px;
-  margin-bottom: 6px;
-  color: ------------------------------>color texto
-
-}
-
-headerbar entry image {
- color: -------------------------------> color icono borrar
-}
-
---------------------------------------------------------------------------
-
 
 
 Pend--- botones circulo color xfwm4.
 
 
-------------------------------------------------------------------------------------------
-
-problemas en textboxes con firefox en gnome en los temas oscuros.
-
-	Fix entries issues of dark version on Firefox
-
-	
-    In Firefox URL bar enter about:config.
-    Create new String value with name widget.content.gtk-theme-override (Right click > new > String)
-    Set value to Adwaita:light (if your distribution does not use GNOME desktop, you should use a name of light GTK theme which is installed on your PC)
-    Restart browser
-
-
----------------------------------------------------------------------------------------
-
-20 julio  - scrollbar colored, headerbar buttons subrayados.
-
-23 julio - fixed some budgie panel issues.
