@@ -1,24 +1,3 @@
-@keyframes ripple_effect {
-  to {
-    background-size: 1000% 1000%;
-  }
-}
-
-@keyframes scale_ripple_effect {
-  to {
-    background-size: auto, 1000% 1000%;
-  }
-}
-
-@keyframes header_ripple_effect {
-  from {
-    background-image: radial-gradient(circle farthest-corner at center, #ff7f2a 0%, transparent 0%);
-  }
-  to {
-    background-image: radial-gradient(circle farthest-corner at center, #ff7f2a 100%, transparent 0%);
-  }
-}
-
 * {
   background-clip: padding-box;
   -GtkToolButton-icon-spacing: 0;
@@ -812,8 +791,7 @@ button.image-button, toolbar .linked > button.image-button, .titlebar:not(header
 headerbar .linked > button.image-button:not(.suggested-action):not(.destructive-action), actionbar > revealer > box .linked > button.image-button:not(.suggested-action):not(.destructive-action):not(.server-list-button), .app-notification .linked > button.image-button, .nemo-window .toolbar .linked > button.image-button, toolbar .linked.vertical > button.image-button,
 headerbar .linked.vertical > button.image-button:not(.suggested-action):not(.destructive-action), .app-notification .linked.vertical > button.image-button, .nemo-window .toolbar .linked.vertical > button.image-button, .linked > button.flat.image-button,
 .linked.vertical > button.flat.image-button, .inline-toolbar button:not(.text-button), check,
-radio, filechooser #pathbarbox > stack > box > button, button.titlebutton, .disclosure-button, .nautilus-window headerbar > revealer > button, .raven .raven-header:not(.top) button.image-button, .raven .expander-button,
-button.close,
+radio, filechooser #pathbarbox > stack > box > button, .disclosure-button, .nautilus-window headerbar > revealer > button, .raven .raven-header:not(.top) button.image-button, .raven .expander-button,
 button.circular {
   border-radius: 9999px;
   -gtk-outline-radius: 9999px;
@@ -3676,6 +3654,105 @@ messagedialog.csd decoration {
   border-radius: 0;
   box-shadow: none;
   background-color: #b35618;
+}
+
+headerbar button.titlebutton,
+.titlebar button.titlebutton {
+  margin: 0 10px;
+  padding: 0;
+  min-height: 10px;
+  min-width: 10px;
+  border-color: transparent;
+  background-color: transparent;
+  background-repeat: no-repeat;
+}
+
+headerbar button.titlebutton:hover, .titlebar button.titlebutton:hover,
+headerbar button.titlebutton:active, headerbar button.titlebutton:checked,
+.titlebar button.titlebutton:active, .titlebar button.titlebutton:checked {
+  color: transparent;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+button.minimize, button.maximize, button.close {
+  border-radius: 9999px;
+  -gtk-outline-radius: 9999px;
+}
+
+headerbar button.titlebutton.close, headerbar button.titlebutton.maximize, headerbar button.titlebutton.minimize,
+.titlebar button.titlebutton.close, .titlebar button.titlebutton.maximize, .titlebar button.titlebutton.minimize,
+headerbar button.titlebutton.close:hover, headerbar button.titlebutton.maximize:hover, headerbar button.titlebutton.minimize:hover,
+.titlebar button.titlebutton.close:hover, .titlebar button.titlebutton.maximize:hover, .titlebar button.titlebutton.minimize:hover,
+headerbar button.titlebutton.close:backdrop, headerbar button.titlebutton.maximize:backdrop, headerbar button.titlebutton.minimize:backdrop,
+.titlebar button.titlebutton.close:backdrop, .titlebar button.titlebutton.maximize:backdrop, .titlebar button.titlebutton.minimize:backdrop,
+headerbar button.titlebutton.close:backdrop:hover, headerbar button.titlebutton.maximize:backdrop:hover, headerbar button.titlebutton.minimize:backdrop:hover,
+.titlebar button.titlebutton.close:backdrop:hover, .titlebar button.titlebutton.maximize:backdrop:hover, .titlebar button.titlebutton.minimize:backdrop:hover {
+  color: transparent;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-width: 0;
+}
+
+headerbar button.titlebutton.close,
+.titlebar button.titlebutton.close {
+  background-image: -gtk-scaled(url("assets/titlebutton-close.png"), url("assets/titlebutton-close@2.png"));
+}
+
+headerbar button.titlebutton.close:backdrop,
+.titlebar button.titlebutton.close:backdrop {
+  background-image: -gtk-scaled(url("assets/titlebutton-close-backdrop.png"), url("assets/titlebutton-close-backdrop@2.png"));
+}
+
+headerbar button.titlebutton.close:hover,
+.titlebar button.titlebutton.close:hover {
+  background-image: -gtk-scaled(url("assets/titlebutton-close-hover.png"), url("assets/titlebutton-close-hover@2.png"));
+}
+
+headerbar button.titlebutton.close:active,
+.titlebar button.titlebutton.close:active {
+  background-image: -gtk-scaled(url("assets/titlebutton-close-active.png"), url("assets/titlebutton-close-active@2.png"));
+}
+
+headerbar button.titlebutton.maximize,
+.titlebar button.titlebutton.maximize {
+  background-image: -gtk-scaled(url("assets/titlebutton-maximize.png"), url("assets/titlebutton-maximize@2.png"));
+}
+
+headerbar button.titlebutton.maximize:backdrop,
+.titlebar button.titlebutton.maximize:backdrop {
+  background-image: -gtk-scaled(url("assets/titlebutton-maximize-backdrop.png"), url("assets/titlebutton-maximize-backdrop@2.png"));
+}
+
+headerbar button.titlebutton.maximize:hover,
+.titlebar button.titlebutton.maximize:hover {
+  background-image: -gtk-scaled(url("assets/titlebutton-maximize-hover.png"), url("assets/titlebutton-maximize-hover@2.png"));
+}
+
+headerbar button.titlebutton.maximize:active,
+.titlebar button.titlebutton.maximize:active {
+  background-image: -gtk-scaled(url("assets/titlebutton-maximize-active.png"), url("assets/titlebutton-maximize-active@2.png"));
+}
+    
+    
+headerbar button.titlebutton.minimize,
+.titlebar button.titlebutton.minimize {
+  background-image: -gtk-scaled(url("assets/titlebutton-minimize.png"), url("assets/titlebutton-minimize@2.png"));
+}
+
+headerbar button.titlebutton.minimize:backdrop,
+.titlebar button.titlebutton.minimize:backdrop {
+  background-image: -gtk-scaled(url("assets/titlebutton-minimize-backdrop.png"), url("assets/titlebutton-minimize-backdrop@2.png"));
+}
+headerbar button.titlebutton.minimize:hover,
+.titlebar button.titlebutton.minimize:hover {
+  background-image: -gtk-scaled(url("assets/titlebutton-minimize-hover.png"), url("assets/titlebutton-minimize-hover@2.png"));
+}
+
+headerbar button.titlebutton.minimize:active,
+.titlebar button.titlebutton.minimize:active {
+  background-image: -gtk-scaled(url("assets/titlebutton-minimize-active.png"), url("assets/titlebutton-minimize-active@2.png"));
 }
 
 .view selection, .view:selected, flowbox flowboxchild:selected, label selection, spinbutton:not(.vertical) selection,
