@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="703"
      id="namedview53"
      showgrid="false"
-     inkscape:zoom="2.0521739"
-     inkscape:cx="-102.16525"
-     inkscape:cy="57.5"
+     inkscape:zoom="8.7826087"
+     inkscape:cx="64"
+     inkscape:cy="8.1824111"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg53" />
   <rect
@@ -194,39 +194,39 @@
      d="m 28.000044,32.99995 0,2.00005 1.999722,0 0,-2.00005 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <path
      id="section-center"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 31.9997,100 0,11 10.999999,0 0,-11 -10.999999,0 z" />
   <path
      id="section-right"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 42.9997,100 0,11 2,0 c 6.68e-4,-0.0183 0,-0.0344 0,-0.0529 l 0,-10.89423 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z" />
   <path
      id="section-top"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 31.9997,97.99995 0,2.00005 10.999999,0 0,-2.00005 c -0.0041,-6.7e-4 0.0042,0 10e-7,0 l -10.98814,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z" />
   <path
      id="section-left"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 30,100 c -6.7e-4,0.0183 0,0.0344 0,0.0529 l 0,10.89423 c 0,0.0185 -6.7e-4,0.0345 0,0.0529 l 2,0 0,-11 -2,0 z" />
   <path
      id="section-bottom"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 31.9997,110.99966 0,2 11,0 0,-1.99966 z" />
   <path
      id="section-topleft"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 29.999667,97.99995 0,2.00005 1.999771,0 0,-2.00005 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <path
      id="section-topright"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 42.999707,98.0003 0,1.9997 1.999771,0 0,-1.9997 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <path
      id="section-bottomright"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 42.999707,110.99995 0,1.99971 1.999771,0 0,-1.99971 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <path
      id="section-bottomleft"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      d="m 29.999707,110.99995 0,1.99971 1.999771,0 0,-1.99971 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z" />
   <rect
      id="section-hint-top-margin"
@@ -237,7 +237,7 @@
      y="96" />
   <rect
      id="section-hint-left-margin"
-     style="fill:#2ca02c;fill-opacity:1"
+     style="fill:#2ca02c;fill-opacity:1;opacity:0.45"
      width="4"
      height="2"
      x="28"
