@@ -1,18 +1,18 @@
 // scss-lint:disable ColorVariable
 
 // main colors used in theme
-// 0.49 < 1 will result in most cinnamon surfaces being transparent
-$button_bg_color: #252525;
-$button_fg_color: #ebebeb;
+// 0.0 < 1 will result in most cinnamon surfaces being transparent
+$button_bg_color: #ececec;
+$button_fg_color: #1e1e1e;
 $selected_bg_color: #2c89a0;
 $selected_fg_color: #ebebeb;
 $tooltip_bg_color: #1c1c1c;
 $tooltip_fg_color: #ebebeb;
-$dark_bg_color: fade-out(#204760, 1 - 0.49);
+$dark_bg_color: fade-out(#204760, 1 - 0.0);
 $dark_fg_color: #ebebeb;
 
 // an always transparent color used for expo & scale views and the lightbox effect when cinnamon is showing an OSD.
-$dark_bg_color_trans: fade-out(#204760, 1 - (0.49 / 2));
+$dark_bg_color_trans: fade-out(#204760, 1 - (0.0 / 2));
 
 // used to calculate gradients for gradient values > 0
 $lighten_amount: 1 + (0.0 / 2);
