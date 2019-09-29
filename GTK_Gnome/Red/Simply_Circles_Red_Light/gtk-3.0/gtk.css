@@ -1420,6 +1420,7 @@ headerbar spinbutton,
 headerbar button {
   margin-top: 6px;
   margin-bottom: 6px;
+  background-color: #ffffff;
 }
 
 headerbar separator {
