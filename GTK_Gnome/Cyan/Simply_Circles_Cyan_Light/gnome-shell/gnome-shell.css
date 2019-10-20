@@ -727,6 +727,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 /* Popovers/Menus */
 .popup-menu {
   min-width: 200px;
+  color: black;
 }
 
 .popup-menu .popup-sub-menu {
@@ -1018,7 +1019,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
-  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 #panel #panelLeft, #panel #panelCenter {
@@ -1083,7 +1084,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 #panel .panel-button:overview {
   background-color: rgba(0, 0, 0, 0.01);
   box-shadow: inset 0 -2px 0px #5BEEDC;
-  color: white;
+  color: black;
 }
 
 #panel .panel-button:active > .system-status-icon, #panel .panel-button:overview > .system-status-icon, #panel .panel-button:focus > .system-status-icon, #panel .panel-button:checked > .system-status-icon {
@@ -1827,16 +1828,16 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   transition-duration: 100ms;
   background-color: rgba(255, 255, 255, 0.04);
   border-color: transparent;
-  box-shadow: inset 0 -1px rgba(255, 255, 255, 0.3);
+  box-shadow: inset 0 -1px rgba(91, 238, 220, 0.3);
 }
 
 .search-entry:hover {
-  box-shadow: inset 0 -1px rgba(255, 255, 255, 0.3);
+  box-shadow: inset 0 -1px rgba(91, 238, 220, 0.7);
 }
 
 .search-entry:focus {
   border-color: transparent;
-  box-shadow: inset 0 -2px white;
+  box-shadow: inset 0 -2px #5beedc;
   padding: 0 8px;
   border-width: 0;
   color: white;
@@ -2125,15 +2126,15 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .page-indicator:hover .page-indicator-icon {
   background-image: none;
-  background-color: #5BEEDC;
-  border-color: #5BEEDC;
+  background-color: #2B9B8E;
+  border-color: #2B9B8E;
 }
 
 .page-indicator:active .page-indicator-icon,
 .page-indicator:checked .page-indicator-icon {
   background-image: none;
-  background-color: #2B9B8E;
-  border-color: #2B9B8E;
+  background-color: #5BEEDC;
+  border-color: #5BEEDC;
   transition-duration: 0ms;
 }
 
