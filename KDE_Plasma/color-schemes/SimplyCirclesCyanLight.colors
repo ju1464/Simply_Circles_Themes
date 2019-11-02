@@ -1,6 +1,3 @@
-[$Version]
-update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar
-
 [ColorEffects:Disabled]
 ChangeSelectionColor=
 Color=
@@ -24,18 +21,18 @@ IntensityAmount=
 IntensityEffect=
 
 [Colors:Button]
-BackgroundAlternate=235,235,235
+BackgroundAlternate=239,240,241
 BackgroundNormal=255,255,255
 DecorationFocus=43,155,142
-DecorationHover=91,238,220
-ForegroundActive=161,161,80
+DecorationHover=56,147,133
+ForegroundActive=61,174,233
 ForegroundInactive=92,92,92
-ForegroundLink=0,0,127
+ForegroundLink=61,174,230
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=28,28,28
 ForegroundPositive=39,174,96
-ForegroundVisited=170,0,255
+ForegroundVisited=195,97,255
 
 [Colors:Complementary]
 BackgroundAlternate=59,64,69
@@ -52,99 +49,68 @@ ForegroundPositive=46,174,230
 ForegroundVisited=61,174,230
 
 [Colors:Selection]
-BackgroundAlternate=29,153,243
+BackgroundAlternate=75,199,183
 BackgroundNormal=91,238,220
 DecorationFocus=43,155,142
-DecorationHover=91,238,220
-ForegroundActive=161,161,80
+DecorationHover=56,147,133
+ForegroundActive=45,130,173
 ForegroundInactive=92,92,92
-ForegroundLink=0,0,127
+ForegroundLink=47,138,180
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=28,28,28
-ForegroundPositive=39,174,96
-ForegroundVisited=170,0,255
+ForegroundPositive=35,157,86
+ForegroundVisited=195,97,255
 
 [Colors:Tooltip]
-BackgroundAlternate=77,77,77
+BackgroundAlternate=239,240,241
 BackgroundNormal=255,255,255
 DecorationFocus=43,155,142
-DecorationHover=91,238,220
-ForegroundActive=161,161,80
+DecorationHover=56,147,133
+ForegroundActive=61,174,233
 ForegroundInactive=92,92,92
-ForegroundLink=0,0,127
+ForegroundLink=61,174,230
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=28,28,28
 ForegroundPositive=39,174,96
-ForegroundVisited=170,0,255
+ForegroundVisited=195,97,255
 
 [Colors:View]
 BackgroundAlternate=239,240,241
 BackgroundNormal=255,255,255
 DecorationFocus=43,155,142
-DecorationHover=91,238,220
-ForegroundActive=161,161,80
+DecorationHover=56,147,133
+ForegroundActive=61,174,233
 ForegroundInactive=92,92,92
-ForegroundLink=0,0,127
+ForegroundLink=61,174,230
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=28,28,28
 ForegroundPositive=39,174,96
-ForegroundVisited=170,0,255
+ForegroundVisited=195,97,255
 
 [Colors:Window]
-BackgroundAlternate=235,235,235
+BackgroundAlternate=239,240,241
 BackgroundNormal=235,235,235
 DecorationFocus=43,155,142
-DecorationHover=91,238,220
-ForegroundActive=161,161,80
+DecorationHover=56,147,133
+ForegroundActive=61,174,233
 ForegroundInactive=92,92,92
-ForegroundLink=0,0,127
+ForegroundLink=61,174,230
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=28,28,28
 ForegroundPositive=39,174,96
-ForegroundVisited=170,0,255
+ForegroundVisited=195,97,255
 
 [General]
-ColorScheme=Actual
+ColorScheme=SimplyCirclesCyanLight
 Name=Simply Circles Cyan Light
-XftAntialias=true
-XftHintStyle=hintslight
-XftSubPixel=rgb
-dbfile=/home/usuario/.mozilla/firefox/ce9pjuh3.default/places.sqlite
 shadeSortColumn=true
-widgetStyle=Breeze
-
-[Icons]
-Theme=Simply_red_circles
 
 [KDE]
-ColorScheme=Breeze
-LookAndFeelPackage=org.kubuntu.desktop
-SingleClick=false
 contrast=4
-widgetStyle=Breeze
-
-[KFileDialog Settings]
-Automatically select filename extension=true
-Breadcrumb Navigation=true
-Decoration position=0
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
-Show Full Path=false
-Show Inline Previews=true
-Show Preview=false
-Show Speedbar=true
-Show hidden files=false
-Sort by=Name
-Sort directories first=true
-Sort reversed=false
-Speedbar Width=142
-View Style=Simple
-listViewIconSize=0
 
 [WM]
 activeBackground=43,155,142
