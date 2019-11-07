@@ -1718,7 +1718,7 @@ menubar > menuitem:hover,
 .menubar > menuitem:hover {
   transition: none;
   background-color: rgba(0, 0, 0, 0.12);
-  color: #black;
+  color: black;
 }
 
 menubar > menuitem:disabled,
@@ -3338,14 +3338,12 @@ placessidebar row:disabled {
 }
 
 placessidebar row image.sidebar-icon:dir(ltr) {
-  padding-left: -14px;
-  padding-right: 12px;
+  padding-right: 8px;
   color: black;
 }
     
 placessidebar row image.sidebar-icon:dir(rtl) {
-  padding-left: 14px;
-  padding-right: 12px;
+  padding-left: 8px;
   color: black;
 }
   

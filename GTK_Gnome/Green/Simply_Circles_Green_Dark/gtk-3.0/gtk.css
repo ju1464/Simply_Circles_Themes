@@ -3327,13 +3327,11 @@ placessidebar row:disabled {
 }
 
 placessidebar row image.sidebar-icon:dir(ltr) {
-  padding-left: -14px;
-  padding-right: 12px;
+  padding-right: 8px;
 }
     
 placessidebar row image.sidebar-icon:dir(rtl) {
-  padding-left: 14px;
-  padding-right: 12px;
+  padding-left: 8px;
 }
   
 placessidebar row label.sidebar-label:dir(ltr) {
@@ -5231,7 +5229,7 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: #black;
+  background-color: black;
   font-weight: 500;
 }
 
