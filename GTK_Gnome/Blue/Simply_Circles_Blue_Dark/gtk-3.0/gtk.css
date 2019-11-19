@@ -6284,7 +6284,7 @@ XfdesktopIconView.view .rubberband {
 }
 
 .thunar .sidebar .view:not(:selected) {
-  background-color: transparent;
+  background-color: rgba(44, 137, 160, 0.3);
 }
 
 .thunar statusbar {
