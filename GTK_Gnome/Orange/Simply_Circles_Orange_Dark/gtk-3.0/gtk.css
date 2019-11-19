@@ -5991,13 +5991,14 @@ frame.raven-frame > border {
 }
 
 .raven stackswitcher.linked > button {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #b8ff00 0%, transparent 0%) 0 0 0/0 0 0px;
+  background-color: #ff7f2a;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #B35618 0%, transparent 0%) 0 0 0/0 0 0px;
   border-radius: 0;
 }
 
 .raven stackswitcher.linked > button:checked {
-  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #b8ff00 100%, transparent 0%) 0 0 2/0 0 2px;
-  background-color: transparent;
+  border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), #B35618 100%, transparent 0%) 0 0 2/0 0 2px;
+  background-color: #ff7f2a;
 }
 
 .raven .raven-header {
@@ -6095,6 +6096,7 @@ calendar.raven-calendar {
 calendar.raven-calendar:selected {
   border-radius: 4px;
   background-color: #ff7f2a;
+  color: black;
 }
 
 .raven-mpris {
