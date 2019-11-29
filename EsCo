@@ -1,8 +1,9 @@
-Negro - 1c1c1c
-Blanco - E6E6E6
-Azul - 2C89A0 - 204760
-Cyan - 5BEEDC - 2B9B8E
-Verde - 2CA02C - 186A3B
-Naranja - FF7F2A - B35618
-Purpura - 963996 - 642C64
-Rojo - A02C2C - 811A10
+          Iconos   Barra    Warning   Error   Succes/Progress
+Negro   - 1c1c1c
+Blanco  - E6E6E6
+Azul    - 2C89A0 - 204760 - B8FF00 - ff4242 - 46DAFF
+Cyan    - 5BEEDC - 2B9B8E - B8FF00 - ff4242 - 00ffa2
+Verde   - 2CA02C - 186A3B - B8FF00 - ff4242 - 00ffa2
+Naranja - FF7F2A - B35618 - B8FF00 - ff4242 - 00ffa2
+Purpura - 963996 - 642C64 - B8FF00 - ff4242 - 00ffa2
+Rojo    - A02C2C - 811A10 - B8FF00 - ff4242 - 00ffa2
