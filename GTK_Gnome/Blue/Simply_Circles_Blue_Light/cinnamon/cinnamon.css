@@ -99,11 +99,11 @@
 
 .slider, .popup-slider-menu-item, .sound-player .slider {
   height: 20px;
-  color: #2c89a0;
+  color: #204760;
   -slider-height: 2px;
   -slider-background-color: rgba(28, 28, 28, 0.3);
   -slider-border-color: transparent;
-  -slider-active-background-color: #2c89a0;
+  -slider-active-background-color: #204760;
   -slider-active-border-color: transparent;
   -slider-border-width: 0;
   -slider-handle-radius: 6px;
@@ -259,13 +259,13 @@ StScrollBar {
 }
 
 StScrollBar StButton#vhandle, StScrollBar StButton#hhandle {
-  background-color: rgba(28, 28, 28, 0.5);
+  background-color: rgba(44, 137, 160, 0.5);
   border-radius: 100px;
   margin: 4px;
 }
 
 StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
-  background-color: rgba(28, 28, 28, 0.7);
+  background-color: #2c89a0;
 }
 
 StScrollBar StBin#trough {
@@ -333,7 +333,7 @@ StScrollView StScrollBar {
 }
 
 .popup-menu-item:active {
-  background-color: rgba(28, 28, 28, 0.08);
+  background-color: rgba(44, 137, 160, 0.7);
   color: #1c1c1c;
   transition-duration: 0ms;
 }
@@ -509,7 +509,8 @@ StScrollView StScrollBar {
   padding: 1px 4px;
 }
 
-.panel-top .workspace-button:hover {
+.panel-bottom .workspace-button:hover {
+  color: black;
   background-color: rgba(44, 137, 160, 0.4);
 }
 
@@ -575,6 +576,7 @@ StScrollView StScrollBar {
 }
 
 .panel-bottom .workspace-button:hover {
+  color: black;
   background-color: rgba(44, 137, 160, 0.4);
 }
 
@@ -639,7 +641,8 @@ StScrollView StScrollBar {
   padding: 1px 4px;
 }
 
-.panel-left .workspace-button:hover {
+.panel-bottom .workspace-button:hover {
+  color: black;
   background-color: rgba(44, 137, 160, 0.4);
 }
 
@@ -704,7 +707,8 @@ StScrollView StScrollBar {
   padding: 1px 4px;
 }
 
-.panel-right .workspace-button:hover {
+.panel-bottom .workspace-button:hover {
+  color: black;
   background-color: rgba(44, 137, 160, 0.4);
 }
 
@@ -747,11 +751,11 @@ StScrollView StScrollBar {
 }
 
 .system-status-icon.warning {
-  color: #b8ff00;
+  color: #a02c89;
 }
 
 .system-status-icon.error {
-  color: #ff4242;
+  color: #a0432c;
 }
 
 #overview {
@@ -1150,7 +1154,7 @@ StScrollView StScrollBar {
 }
 
 .run-dialog-error-label {
-  color: #ff4242;
+  color: #a0432c;
 }
 
 .run-dialog-error-box {
@@ -1176,7 +1180,7 @@ StScrollView StScrollBar {
 }
 
 .mount-password-reask {
-  color: #b8ff00;
+  color: #a02c89;
 }
 
 .show-processes-dialog {
@@ -1412,7 +1416,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-box .progress {
-  background-color: #46daff;
+  background-color: #2ca07d;
 }
 
 .window-list-item-box.top StLabel, .window-list-item-box.bottom StLabel {
@@ -1454,7 +1458,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-thumbnail-alert {
-  background: #b8ff00;
+  background: #a02c89;
 }
 
 .grouped-window-list-item-box {
@@ -1484,7 +1488,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-item-box .progress {
-  background-color: #46daff;
+  background-color: #2ca07d;
 }
 
 .grouped-window-list-item-demands-attention {
@@ -1588,44 +1592,47 @@ StScrollView StScrollBar {
 }
 
 .workspace-button {
-  background-color: #002740;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.7);
   width: 2em;
   height: 1em;
-  color: rgba(235, 235, 235, 0.7);
+  color: rgba(0, 0, 0, 0.7);
   margin: 2px;
 }
 
 .workspace-button:outlined {
-  background-color: rgba(235, 235, 235, 0.3);
+  background-color: #204760;
   color: #ebebeb;
 }
 
 .workspace-graph {
-  background-color: black;
+  padding: 3px 4px 3px 4px;
+  spacing: 4px;
+  background-color: transparent;
 }
 
 .workspace-graph .workspace {
-  background-color: #002740;
-  border: 1px solid rgba(28, 28, 28, 0.12);
+  background-color: #ffffff;
+  border: 1px solid black;
 }
 
 .workspace-graph .workspace:active {
-  background-color: rgba(235, 235, 235, 0.3);
-  border: 1px solid rgba(28, 28, 28, 0.12);
+  background-color: rgba(44, 137, 160, 0.3);
+  border: 1px solid #2c89a0;
 }
 
 .workspace-graph .workspace:active .windows {
-  -active-window-background: rgba(255, 255, 255, 0.8);
-  -active-window-border: rgba(0, 0, 0, 0.9);
-  -inactive-window-background: rgba(140, 140, 140, 0.8);
-  -inactive-window-border: rgba(0, 0, 0, 0.7);
+  -inactive-window-border: rgba(44, 137, 160, 0.5);
+  -active-window-border: #2c89a0;
+  -inactive-window-background: transparent;
+  -inactive-window-border: rgba(44, 137, 160, 0.5);
 }
 
 .workspace-graph .workspace .windows {
-  -active-window-background: rgba(140, 140, 140, 0.8);
-  -active-window-border: rgba(0, 0, 0, 0.7);
-  -inactive-window-background: rgba(140, 140, 140, 0.8);
-  -inactive-window-border: rgba(0, 0, 0, 0.7);
+  -active-window-background: transparent;
+  -active-window-border: black;
+  -inactive-window-background: transparent;
+  -inactive-window-border: rgba(0, 0, 0, 0.5);
 }
 
 .panel-launchers {
@@ -1714,45 +1721,45 @@ StScrollView StScrollBar {
 .desklet-with-borders {
   font-size: 9pt;
   font-weight: 400;
-  background-color: #ececec;
+  background-color: rgba(32, 71, 96, 0.85);
   border-radius: 4px;
 }
 
 .desklet-with-borders:highlight {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .desklet-with-borders-and-header {
   font-size: 9pt;
   font-weight: 400;
-  background-color: #ececec;
+  background-color: rgba(32, 71, 96, 0.85);
   border-radius-bottomleft: 2px;
   border-radius-bottomright: 2px;
 }
 
 .desklet-with-borders-and-header:highlight {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .desklet-header {
   font-size: 15pt;
   font-weight: 500;
-  background-color: #ececec;
+  background-color: #204760;
   border-radius-topleft: 2px;
   border-radius-topright: 2px;
 }
 
 .desklet-header:highlight {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .photoframe-box {
-  background-color: #ececec;
+  background-color: rgba(32, 71, 96, 0.85);
   border-radius: 4px;
 }
 
 .photoframe-box:highlight {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .desklet-drag-placeholder {
