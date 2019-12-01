@@ -6,7 +6,8 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 Name=Simply Circles Green Light Envolved
-GtkTheme=Simply-Circles_Green_Light_Envolved
-MetacityTheme=Simply_Circles
-IconTheme=Simply Green Circles
+GtkTheme=Simply_Circles_Green_Light_Envolved
+MetacityTheme=Simply_Circles_Green_Light_Envolved
+IconTheme=Simply-Green-Circles
+CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close

@@ -6,7 +6,8 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 Name=Simply Circles Purple Light
-GtkTheme=Simply-Circles_Purple_Light
-MetacityTheme=Simply_Circles
-IconTheme=Simply Purple Circles
+GtkTheme=Simply_Circles_Purple_Light
+MetacityTheme=Simply_Circles_Purple_Light
+IconTheme=Simply-Purple-Circles
+CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close

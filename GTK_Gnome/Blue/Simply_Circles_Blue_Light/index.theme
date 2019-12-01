@@ -6,7 +6,8 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 Name=Simply Circles Blue Light
-GtkTheme=Simply-Circles_Blue_Light
-MetacityTheme=Simply_Circles
-IconTheme=Simply Blue Circles
+GtkTheme=Simply_Circles_Blue_Light
+MetacityTheme=Simply_Circles_Blue_Light
+IconTheme=Simply-Blue-Circles
+CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close

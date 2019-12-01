@@ -6,7 +6,8 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 Name=Simply Circles Orange Dark
-GtkTheme=Simply-Circles_Orange_Dark
-MetacityTheme=Simply_Circles
-IconTheme=Simply Orange Circles
+GtkTheme=Simply_Circles_Orange_Dark
+MetacityTheme=Simply_Circles_Orange_Dark
+IconTheme=Simply-Orange-Circles
+CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close
