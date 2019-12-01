@@ -99,11 +99,11 @@
 
 .slider, .popup-slider-menu-item, .sound-player .slider {
   height: 20px;
-  color: #204760;
+  color: #242424;
   -slider-height: 2px;
   -slider-background-color: rgba(28, 28, 28, 0.3);
   -slider-border-color: transparent;
-  -slider-active-background-color: #204760;
+  -slider-active-background-color: #242424;
   -slider-active-border-color: transparent;
   -slider-border-width: 0;
   -slider-handle-radius: 6px;
@@ -291,10 +291,10 @@ StScrollView StScrollBar {
   font-size: 9pt;
   font-weight: 400;
   padding: 6px 8px;
-  color: white;
+  color: black;
   text-align: center;
   border-radius: 4px;
-  background-color: rgba(32, 71, 96, 0.9);
+  background-color: rgba(235, 235, 235, 0.9);
 }
 
 .menu {
@@ -1277,7 +1277,7 @@ StScrollView StScrollBar {
 }
 
 .menu-favorites-box {
-  background-color: #204760;
+  background-color: #757575;
   padding: 8px;
 }
 
@@ -1424,7 +1424,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-demands-attention {
-  background-color: #204760;
+  background-color: #757575;
   color: rgba(235, 235, 235, 0.7);
 }
 
@@ -1492,7 +1492,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-item-demands-attention {
-  background-color: #204760;
+  background-color: #757575;
   color: rgba(235, 235, 235, 0.7);
 }
 
@@ -1601,7 +1601,7 @@ StScrollView StScrollBar {
 }
 
 .workspace-button:outlined {
-  background-color: #204760;
+  background-color: #4d4d4d;
   color: #ebebeb;
 }
 
@@ -1721,7 +1721,7 @@ StScrollView StScrollBar {
 .desklet-with-borders {
   font-size: 9pt;
   font-weight: 400;
-  background-color: rgba(32, 71, 96, 0.85);
+  background-color: rgba(77, 77, 77, 0.85);
   border-radius: 4px;
 }
 
@@ -1732,7 +1732,7 @@ StScrollView StScrollBar {
 .desklet-with-borders-and-header {
   font-size: 9pt;
   font-weight: 400;
-  background-color: rgba(32, 71, 96, 0.85);
+  background-color: rgba(77, 77, 77, 0.85);
   border-radius-bottomleft: 2px;
   border-radius-bottomright: 2px;
 }
@@ -1744,7 +1744,7 @@ StScrollView StScrollBar {
 .desklet-header {
   font-size: 15pt;
   font-weight: 500;
-  background-color: #204760;
+  background-color: #1c1c1c;
   border-radius-topleft: 2px;
   border-radius-topright: 2px;
 }
@@ -1754,7 +1754,7 @@ StScrollView StScrollBar {
 }
 
 .photoframe-box {
-  background-color: rgba(32, 71, 96, 0.85);
+  background-color: rgba(77, 77, 77, 0.85);
   border-radius: 4px;
 }
 
