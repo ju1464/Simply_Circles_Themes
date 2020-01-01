@@ -5228,7 +5228,7 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: black;
+  background-color: #121212;
   font-weight: 500;
 }
 
@@ -5243,8 +5243,9 @@ UnityPanelWidget:backdrop,
   border-radius: 0;
 }
 
-.mate-panel-menu-bar button:checked {
-  background-color: rgba(255, 255, 255, 0.12);
+.mate-panel-menu-bar button:checked,
+.mate-panel-menu-bar button:hover {
+  background-color: rgba(160, 44, 44, 0.2);
 }
 
 PanelToplevel.horizontal > grid > button {
@@ -5400,7 +5401,7 @@ na-tray-applet {
 }
 
 #PanelApplet:selected > box {
-  background-color: rgba(255, 255, 255, 0.12);
+  background-color: rgba(160, 44, 44, 0.2);
   color: white;
 }
 

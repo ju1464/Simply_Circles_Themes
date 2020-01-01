@@ -5231,23 +5231,26 @@ UnityPanelWidget:backdrop,
 }
 
 .mate-panel-menu-bar {
-  background-color: black;
+  background-color: #f2f2f2;
   font-weight: 500;
 }
 
 .mate-panel-menu-bar:not(.popup) {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(0, 0, 0, 0.7);
 }
 
 .mate-panel-menu-bar button {
+  color: #1c1c1c;
   min-height: 16px;
   min-width: 16px;
   padding: 0;
   border-radius: 0;
 }
 
+.mate-panel-menu-bar button:hover,
 .mate-panel-menu-bar button:checked {
-  background-color: rgba(255, 255, 255, 0.12);
+  background-color: rgba(44, 160, 44, 0.2);
+  color: rgba(28, 28, 28, 0.95);
 }
 
 PanelToplevel.horizontal > grid > button {
@@ -5403,8 +5406,8 @@ na-tray-applet {
 }
 
 #PanelApplet:selected > box {
-  background-color: rgba(255, 255, 255, 0.12);
-  color: white;
+  background-color: rgba(44, 160, 44, 0.2);
+  color: #1c1c1c;
 }
 
 #mate-menu {
