@@ -1,0 +1,11 @@
+[Colors:Button]
+BackgroundNormal=28,28,28
+ForegroundNormal=230,230,230
+
+[Colors:View]
+BackgroundNormal=28,28,28
+ForegroundNormal=230,230,230
+
+[Colors:Window]
+BackgroundNormal=28,28,28
+ForegroundNormal=230,230,230

@@ -18,7 +18,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Simply_Circles_Red
+theme=__aurorae__svg__Simply_Circles_Colors
 
 [plasmarc][Theme]
-name=Simply-Circles-Red-Dark
+name=Simply-Circles-Colors
