@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="708"
      id="namedview674"
      showgrid="false"
-     inkscape:zoom="3.992"
+     inkscape:zoom="1"
      inkscape:cx="54.5"
-     inkscape:cy="2.3797595"
+     inkscape:cy="62.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -560,7 +560,7 @@
   </g>
   <g
      id="attention-bottom"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect115"
@@ -571,13 +571,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path117"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="attention-left"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect120"
@@ -588,13 +588,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path122"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="attention-right"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect125"
@@ -605,17 +605,17 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path127"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,0.407407,82.58462)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="fill:currentColor;fill-opacity:1"
        id="rect130"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        width="27"
        height="13"
        x="5"
@@ -624,7 +624,7 @@
   <g
      id="attention-top"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect133"
@@ -634,13 +634,13 @@
        y="63" />
     <g
        id="g137"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
        style="fill:currentColor;fill-opacity:1">
       <path
          style="fill:currentColor;fill-opacity:1"
          id="path135"
-         class="ColorScheme-NegativeText"
+         class="ColorScheme-ButtonFocus"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
     </g>
@@ -648,7 +648,7 @@
   <g
      id="attention-topleft"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect140"
@@ -659,13 +659,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path142"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="attention-topright"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect145"
@@ -676,13 +676,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path147"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="attention-bottomleft"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect150"
@@ -693,13 +693,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path152"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="attention-bottomright"
      transform="translate(-1,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect155"
@@ -710,7 +710,7 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path157"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
   <g
@@ -1215,7 +1215,7 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path298"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 3,17 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
@@ -1304,7 +1304,7 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path321"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
@@ -1321,7 +1321,7 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path326"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
   <g
@@ -1482,7 +1482,7 @@
   <g
      id="north-attention-bottom"
      transform="translate(21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect373"
@@ -1493,13 +1493,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path375"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="north-attention-left"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect378"
@@ -1510,13 +1510,13 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path380"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="north-attention-right"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect383"
@@ -1527,17 +1527,17 @@
     <path
        style="fill:currentColor;fill-opacity:1"
        id="path385"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="north-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,21.407407,82.58462)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="fill:currentColor;fill-opacity:1"
        id="rect388"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        width="27"
        height="13"
        x="5"
@@ -1546,7 +1546,7 @@
   <g
      id="north-attention-top"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect391"
@@ -1557,11 +1557,11 @@
     <g
        id="g395"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        style="fill:currentColor;fill-opacity:1">
       <path
          style="fill:currentColor;fill-opacity:1"
-         class="ColorScheme-NegativeText"
+         class="ColorScheme-ButtonFocus"
          id="path393"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -1570,7 +1570,7 @@
   <g
      id="north-attention-topleft"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect398"
@@ -1580,14 +1580,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path400"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="north-attention-topright"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect403"
@@ -1597,14 +1597,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path405"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="north-attention-bottomleft"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect408"
@@ -1614,14 +1614,14 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path410"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="north-attention-bottomright"
      transform="translate(20,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect413"
@@ -1631,7 +1631,7 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path415"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -2141,7 +2141,7 @@
        transform="scale(1,-1)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path555"
        d="M 3,3 V 2 1 h 14 v 1 1 z" />
   </g>
@@ -2163,7 +2163,7 @@
      style="opacity:0.00100002;fill:currentColor;fill-opacity:1" />
   <rect
      id="progress-center"
-     class="ColorScheme-NegativeText"
+     class="ColorScheme-ButtonFocus"
      width="14"
      height="14"
      x="3"
@@ -2207,7 +2207,7 @@
        transform="scale(1,-1)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path578"
        d="M 1,3 V 2 C 1,2 1,1 2,1 H 3 V 2 3 H 2 Z" />
   </g>
@@ -2224,7 +2224,7 @@
        transform="scale(1,-1)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path583"
        d="M 17,3 V 2 1 h 1 c 0,0 1,0 1,1 v 1 h -1 z" />
   </g>
@@ -2386,7 +2386,7 @@
   <g
      id="east-attention-bottom"
      transform="translate(42)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect630"
@@ -2396,14 +2396,14 @@
        y="101" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path632"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="east-attention-left"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect635"
@@ -2413,14 +2413,14 @@
        y="66" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path637"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="east-attention-right"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect640"
@@ -2430,17 +2430,17 @@
        y="66" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path642"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="east-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,42.407407,82.58462)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="rect645"
        width="27"
        height="13"
@@ -2450,7 +2450,7 @@
   <g
      id="east-attention-top"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect648"
@@ -2461,11 +2461,11 @@
     <g
        id="g652"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        style="fill:currentColor;fill-opacity:1">
       <path
          style="fill:currentColor;fill-opacity:1"
-         class="ColorScheme-NegativeText"
+         class="ColorScheme-ButtonFocus"
          id="path650"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -2474,7 +2474,7 @@
   <g
      id="east-attention-topleft"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect655"
@@ -2484,14 +2484,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path657"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="east-attention-topright"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect660"
@@ -2501,14 +2501,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path662"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="east-attention-bottomleft"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect665"
@@ -2518,14 +2518,14 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path667"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="east-attention-bottomright"
      transform="translate(41,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect670"
@@ -2535,7 +2535,7 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path672"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -3045,7 +3045,7 @@
        transform="rotate(90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path812"
        d="m 45,3 h -1 -1 v 14 h 1 1 z" />
   </g>
@@ -3110,7 +3110,7 @@
        transform="rotate(90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path823"
        d="m 45,1 h -1 c 0,0 -1,0 -1,1 v 1 h 1 1 V 2 Z" />
   </g>
@@ -3127,7 +3127,7 @@
        transform="rotate(90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path828"
        d="m 45,17 h -1 -1 v 1 c 0,0 0,1 1,1 h 1 v -1 z" />
   </g>
@@ -3289,7 +3289,7 @@
   <g
      id="west-attention-bottom"
      transform="translate(63)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect875"
@@ -3299,14 +3299,14 @@
        y="101" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path877"
        d="m 3,101 v 1 1 h 14 v -1 -1 z" />
   </g>
   <g
      id="west-attention-left"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect880"
@@ -3316,14 +3316,14 @@
        y="66" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path882"
        d="M 2,66 V 80 H 3 4 V 66 H 3 Z" />
   </g>
   <g
      id="west-attention-right"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect885"
@@ -3333,17 +3333,17 @@
        y="66" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path887"
        d="m 18,66 v 14 h 1 1 V 66 h -1 z" />
   </g>
   <g
      id="west-attention-center"
      transform="matrix(0.51851851,0,0,1.0769231,63.407407,82.58462)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="rect890"
        width="27"
        height="13"
@@ -3353,7 +3353,7 @@
   <g
      id="west-attention-top"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect893"
@@ -3364,11 +3364,11 @@
     <g
        id="g897"
        transform="matrix(0.53846154,0,0,-1,1.3076923,93)"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        style="fill:currentColor;fill-opacity:1">
       <path
          style="fill:currentColor;fill-opacity:1"
-         class="ColorScheme-NegativeText"
+         class="ColorScheme-ButtonFocus"
          id="path895"
          d="m 5,64 v 1 1 h 26 v -1 -1 z"
          transform="matrix(1,0,0,-1,0,93)" />
@@ -3377,7 +3377,7 @@
   <g
      id="west-attention-topleft"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect900"
@@ -3387,14 +3387,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path902"
        d="m 3,64 c -1,0 -1,1 -1,1 v 1 h 1 1 v -1 -1 z" />
   </g>
   <g
      id="west-attention-topright"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect905"
@@ -3404,14 +3404,14 @@
        y="63" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path907"
        d="m 18,64 v 1 1 h 1 1 v -1 c 0,-1 -1,-1 -1,-1 z" />
   </g>
   <g
      id="west-attention-bottomleft"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect910"
@@ -3421,14 +3421,14 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path912"
        d="m 2,80 v 1 c 0,0 0,1 1,1 H 4 V 81 80 H 3 Z" />
   </g>
   <g
      id="west-attention-bottomright"
      transform="translate(62,21)"
-     style="fill:currentColor;fill-opacity:1;opacity:0.5">
+     style="fill:currentColor;fill-opacity:1;opacity:0.75">
     <rect
        style="opacity:0.001;fill:currentColor;fill-opacity:1"
        id="rect915"
@@ -3438,7 +3438,7 @@
        y="80" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path917"
        d="m 18,80 v 1 1 h 1 c 0,0 1,0 1,-1 v -1 h -1 z" />
   </g>
@@ -3947,7 +3947,7 @@
        transform="rotate(-90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path1057"
        d="m 80,17 h 1 1 V 3 h -1 -1 z" />
   </g>
@@ -4012,7 +4012,7 @@
        transform="rotate(-90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path1068"
        d="m 80,19 h 1 c 0,0 1,0 1,-1 v -1 h -1 -1 v 1 z" />
   </g>
@@ -4029,7 +4029,7 @@
        transform="rotate(-90)" />
     <path
        style="fill:currentColor;fill-opacity:1"
-       class="ColorScheme-NegativeText"
+       class="ColorScheme-ButtonFocus"
        id="path1073"
        d="m 80,3 h 1 1 V 2 c 0,0 0,-1 -1,-1 h -1 v 1 z" />
   </g>
@@ -4104,4 +4104,9 @@
        id="path4292"
        sodipodi:nodetypes="cccc" />
   </g>
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41620618"
+     d="m 34.002725,-44.871105 c -0.0522,0 -0.10131,0.0117 -0.14746,0.0351 -0.0461,0.0211 -0.0873,0.0515 -0.12338,0.0913 -0.0341,0.0398 -0.0612,0.0867 -0.0813,0.14054 -0.0201,0.0539 -0.0301,0.11125 -0.0301,0.17215 0,0.0609 0.01,0.11946 0.0301,0.17567 0.0201,0.0539 0.0471,0.10072 0.0813,0.14054 0.0361,0.0398 0.0772,0.0714 0.12338,0.0949 0.0462,0.0234 0.0953,0.0351 0.14746,0.0351 0.0522,0 0.10132,-0.0117 0.14746,-0.0351 0.0461,-0.0234 0.0863,-0.055 0.12037,-0.0949 0.0341,-0.0398 0.0602,-0.0867 0.0783,-0.14054 0.0201,-0.0562 0.0301,-0.11477 0.0301,-0.17567 0,-0.0609 -0.01,-0.11828 -0.0301,-0.17215 -0.0181,-0.0539 -0.0441,-0.10072 -0.0783,-0.14054 -0.0341,-0.0398 -0.0742,-0.0703 -0.12037,-0.0913 -0.0461,-0.0234 -0.0953,-0.0351 -0.14746,-0.0351 z m 12.7265,0.52701 c -0.21065,0 -0.40526,0.0422 -0.58381,0.12648 -0.17655,0.0843 -0.32902,0.22017 -0.45742,0.40755 -0.12639,0.18738 -0.2257,0.43332 -0.29792,0.73781 -0.0722,0.30215 -0.10834,0.67106 -0.10834,1.10672 0,0.438 0.0371,0.79871 0.11135,1.08212 0.0742,0.28107 0.17353,0.50359 0.29792,0.66754 0.12439,0.16396 0.26783,0.27873 0.43034,0.34432 0.1625,0.0632 0.33203,0.0949 0.50857,0.0949 0.17655,0 0.34808,-0.0304 0.5146,-0.0913 0.16852,-0.0609 0.31699,-0.15459 0.44538,-0.28107 0.1284,-0.12648 0.23172,-0.28693 0.30997,-0.48133 0.0782,-0.19441 0.11736,-0.42512 0.11736,-0.69214 0,-0.17801 -0.0181,-0.33729 -0.0542,-0.47782 -0.0341,-0.14054 -0.0812,-0.26351 -0.14144,-0.36891 -0.0582,-0.10774 -0.12739,-0.19792 -0.20764,-0.27053 -0.0782,-0.075 -0.1615,-0.13585 -0.24978,-0.18269 -0.0883,-0.0469 -0.17855,-0.0808 -0.27084,-0.10189 -0.0923,-0.0211 -0.18056,-0.0316 -0.26482,-0.0316 -0.11034,0 -0.21166,0.0117 -0.30394,0.0351 -0.0923,0.0234 -0.17555,0.055 -0.24978,0.0949 -0.0742,0.0375 -0.13943,0.082 -0.19561,0.13351 -0.0562,0.0515 -0.10432,0.1054 -0.14444,0.16162 0.0301,-0.32323 0.0672,-0.58557 0.11134,-0.787 0.0462,-0.20144 0.10132,-0.35837 0.16552,-0.4708 0.0642,-0.11242 0.13943,-0.18855 0.2257,-0.22837 0.0863,-0.0398 0.18357,-0.0597 0.2919,-0.0597 0.0943,0 0.17254,0.0187 0.23473,0.0562 0.0622,0.0375 0.11235,0.0855 0.15047,0.14405 0.0381,0.0562 0.0642,0.12063 0.0782,0.19324 0.0161,0.0703 0.0241,0.13819 0.0241,0.20377 h 0.65302 c 0,-0.1499 -0.0271,-0.28927 -0.0813,-0.41809 -0.0542,-0.12882 -0.13141,-0.24125 -0.23172,-0.33729 -0.10031,-0.096 -0.22068,-0.17098 -0.36112,-0.22485 -0.14044,-0.0562 -0.29592,-0.0843 -0.46645,-0.0843 z m -6.79208,0.13351 c -0.0241,0.0375 -0.0702,0.0902 -0.13843,0.1581 -0.0682,0.0679 -0.14445,0.13936 -0.22871,0.21431 -0.0843,0.0726 -0.17153,0.14171 -0.26181,0.20729 -0.0883,0.0656 -0.16652,0.11477 -0.23473,0.14757 v 0.69213 c 0.0602,-0.0211 0.13041,-0.0504 0.21065,-0.0878 0.0802,-0.0398 0.16151,-0.0831 0.24376,-0.13 0.0823,-0.0492 0.1605,-0.10071 0.23473,-0.15459 0.0762,-0.0562 0.14044,-0.11242 0.1926,-0.16864 v 3.55555 h 0.62895 v -4.43389 z m 3.55704,0 -1.57087,2.62801 v 0.85726 h 1.81162 v 0.94862 h 0.62293 v -0.94862 h 0.40626 v -0.64295 h -0.40626 v -2.84232 z m 6.65666,0 -1.57087,2.62801 v 0.85726 h 1.81162 v 0.94862 h 0.62293 v -0.94862 h 0.40626 v -0.64295 h -0.40626 v -2.84232 z m -6.41591,0.53403 v 2.30829 h -1.34518 z m 6.65666,0 v 2.30829 h -1.34518 z m -16.33169,0.34431 -0.75835,0.27405 v 0.23891 h 0.43635 v 3.19366 c 0,0.1382 -0.005,0.26936 -0.015,0.3935 -0.008,0.12648 -0.0241,0.24008 -0.0482,0.3408 -0.0221,0.10306 -0.0522,0.19089 -0.0903,0.26351 -0.0381,0.075 -0.0853,0.13116 -0.14143,0.16864 l -0.59886,-0.48134 c -0.0301,0.0117 -0.0612,0.0281 -0.0933,0.0492 -0.0321,0.0234 -0.0602,0.0515 -0.0843,0.0843 -0.0261,0.0351 -0.0471,0.075 -0.0632,0.11946 -0.0161,0.0468 -0.0241,0.10071 -0.0241,0.16161 0,0.0679 0.013,0.12649 0.0391,0.17567 0.0241,0.0515 0.0582,0.0937 0.10231,0.12648 0.0421,0.0328 0.0913,0.0562 0.14746,0.0703 0.0562,0.0164 0.11636,0.0246 0.18056,0.0246 0.19461,0 0.38118,-0.055 0.55974,-0.16513 0.18056,-0.10775 0.33404,-0.27522 0.46043,-0.50242 0.0522,-0.096 0.0943,-0.20495 0.12639,-0.32674 0.0321,-0.1218 0.0562,-0.24711 0.0722,-0.37593 0.0181,-0.12883 0.0301,-0.25648 0.0361,-0.38296 0.006,-0.12883 0.009,-0.24711 0.009,-0.35486 v -3.09529 z m 1.69426,0 -0.75836,0.28107 v 0.24594 h 0.43034 v 1.94993 c 0,0.20378 0.0191,0.37944 0.0572,0.52701 0.0401,0.14522 0.0963,0.26584 0.16852,0.36188 0.0742,0.0937 0.16351,0.16278 0.26783,0.20729 0.10633,0.0468 0.2257,0.0703 0.35811,0.0703 0.0903,0 0.18257,-0.0176 0.27686,-0.0527 0.0963,-0.0328 0.18759,-0.0738 0.27385,-0.12297 0.0883,-0.0515 0.16953,-0.10657 0.24376,-0.16513 0.0762,-0.0585 0.14044,-0.11125 0.1926,-0.1581 v 0.41107 h 0.97803 v -0.28107 l -0.27084,-0.0211 c -0.0361,-0.005 -0.0682,-0.0211 -0.0963,-0.0492 -0.0261,-0.0281 -0.0391,-0.0644 -0.0391,-0.10892 v -3.09529 h -0.25278 l -0.75234,0.28107 v 0.24594 h 0.43335 v 2.41018 c -0.0361,0.0211 -0.0802,0.0445 -0.13241,0.0703 -0.0502,0.0234 -0.10433,0.0469 -0.16251,0.0703 -0.0582,0.0211 -0.11937,0.0386 -0.18357,0.0527 -0.0642,0.014 -0.12739,0.0211 -0.18959,0.0211 -0.10833,0 -0.20062,-0.0176 -0.27686,-0.0527 -0.0762,-0.0375 -0.13843,-0.0913 -0.18657,-0.16162 -0.0462,-0.0703 -0.0802,-0.15576 -0.10232,-0.25647 -0.0201,-0.10072 -0.0301,-0.21432 -0.0301,-0.3408 v -2.33992 z m 10.90284,1.04348 c 0.0983,0 0.19059,0.0269 0.27686,0.0808 0.0863,0.0515 0.1605,0.12296 0.22269,0.21431 0.0642,0.089 0.11435,0.19441 0.15047,0.31621 0.0381,0.12179 0.0572,0.25179 0.0572,0.38998 0,0.1382 -0.0191,0.26936 -0.0572,0.3935 -0.0361,0.1218 -0.0863,0.22837 -0.15047,0.31972 -0.0622,0.0914 -0.13642,0.16396 -0.22269,0.21783 -0.0863,0.0515 -0.17856,0.0773 -0.27686,0.0773 -0.0963,0 -0.18758,-0.0258 -0.27385,-0.0773 -0.0863,-0.0539 -0.16251,-0.12648 -0.22871,-0.21783 -0.0642,-0.0913 -0.11536,-0.19792 -0.15348,-0.31972 -0.0361,-0.12414 -0.0542,-0.2553 -0.0542,-0.3935 0,-0.13819 0.0181,-0.26819 0.0542,-0.38998 0.0381,-0.1218 0.0893,-0.2272 0.15348,-0.31621 0.0662,-0.0913 0.14244,-0.16279 0.22871,-0.21431 0.0863,-0.0539 0.17755,-0.0808 0.27385,-0.0808 z"
+     id="text843"
+     inkscape:connector-curvature="0" />
 </svg>
