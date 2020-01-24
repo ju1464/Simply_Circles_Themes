@@ -1,8 +1,8 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK+ 2 version of Simply_Circles_Orange_Dark. It's whole purpose is to look as the
-# GTK+ 3 version as much as possible until GTK+ 2 dies completely.
+# This is the GTK 2 version of Simply_Circles_Orange_Dark. It's whole purpose is to look as the
+# GTK 3 version as much as possible until GTK 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
 # widget matches.
@@ -19,10 +19,12 @@ gtk-color-scheme = "fg_color:#ebebeb\nbg_color:#1c1c1c"
 gtk-color-scheme = "selected_fg_color:#ebebeb\nselected_bg_color:#ff7f2a"
 # Titlebar foreground/background
 gtk-color-scheme = "titlebar_fg_color:#ebebeb\ntitlebar_bg_color:#b35618"
+# Menus
+gtk-color-scheme = "menu_color:#1c1c1c"
 # Tooltips foreground/background
-gtk-color-scheme = "tooltip_fg_color:#ebebeb\ntooltip_bg_color:#616161"
+gtk-color-scheme = "tooltip_fg_color:#ebebeb\ntooltip_bg_color:#b35618"
 # Links
-gtk-color-scheme = "link_color:#ff7f2a\nvisited_link_color:#E040FB"
+gtk-color-scheme = "link_color:#ff7f2a\nvisited_link_color:#CE93D8"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1
