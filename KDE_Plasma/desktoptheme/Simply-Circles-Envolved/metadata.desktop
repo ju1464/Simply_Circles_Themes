@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Simply Circles Envolved
-Comment=Simply Circles Plasma Theme
+Comment=Simply Circles Plasma for Envolved modes.
+
 X-KDE-PluginInfo-Author=ju1464
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Depends=
@@ -11,9 +12,3 @@ X-KDE-PluginInfo-Name=Simply-Circles-Envolved
 X-KDE-PluginInfo-Version=0.2
 X-KDE-PluginInfo-Website=www.github.com/ju1464
 X-Plasma-API=5.0
-
-[ContrastEffect]
-contrast=0.2
-enabled=false
-intensity=2.0
-saturation=1.7
