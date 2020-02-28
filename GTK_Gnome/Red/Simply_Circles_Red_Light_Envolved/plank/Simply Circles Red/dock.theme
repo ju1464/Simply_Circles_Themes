@@ -1,0 +1,36 @@
+# Simply Circles Red theme for Plank
+# Author: ju1464
+
+[PlankTheme]
+TopRoundness=20
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=129;;26;;16;;0
+FillStartColor=129;;26;;16;;255
+FillEndColor=129;;26;;16;;255
+InnerStrokeColor=129;;26;;16;;0
+
+[PlankDockTheme]
+HorizPadding=2
+TopPadding=-11
+BottomPadding=3
+ItemPadding=3
+IndicatorSize=10
+IconShadowSize=0
+UrgentBounceHeight=1.6666666666666667
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=300
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=300
+SlideTime=300
+FadeTime=250
+HideTime=150
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2000
+UrgentHueShift=150
+ItemMoveTime=450
+CascadeHide=true
+BadgeColor=0;;0;;0;;0
