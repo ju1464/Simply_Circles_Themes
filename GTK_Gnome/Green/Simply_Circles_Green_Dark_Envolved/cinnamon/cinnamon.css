@@ -1479,13 +1479,11 @@ StScrollView StScrollBar {
   background-color: #186A3B;
   color: rgba(235, 235, 235, 0.7);
 }
-
 .grouped-window-list-thumbnail-menu {
-  padding: 20px;
   border: none;
   border-radius: 4px;
-  color: rgba(235, 235, 235, 0.7);
-  background: none;
+  color: #1c1c1c;
+  background: #ececec;
 }
 
 .grouped-window-list-thumbnail-menu .item-box {
@@ -1496,12 +1494,12 @@ StScrollView StScrollBar {
 
 .grouped-window-list-thumbnail-menu .item-box:outlined {
   border: 2px solid rgba(28, 28, 28, 0.12);
-  color: #ebebeb;
+  color: #000000;
 }
 
 .grouped-window-list-thumbnail-menu .item-box:selected {
   background: rgba(235, 235, 235, 0.12);
-  color: #ebebeb;
+  color: #000000;
 }
 
 .grouped-window-list-thumbnail-menu .item-box > StBoxLayout:ltr {

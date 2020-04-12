@@ -1413,7 +1413,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-preview {
-  background-color: #1c1c1c;
+  background-color: #242424;
   border-radius: 4px;
   padding: 10px 15px;
   spacing: 1em;
@@ -1481,11 +1481,10 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-thumbnail-menu {
-  padding: 20px;
   border: none;
   border-radius: 4px;
-  color: rgba(235, 235, 235, 0.7);
-  background: none;
+  color: rgba(235, 235, 235, 0.9);
+  background: #242424;
 }
 
 .grouped-window-list-thumbnail-menu .item-box {
