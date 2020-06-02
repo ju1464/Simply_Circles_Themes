@@ -2250,24 +2250,31 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .notification-banner .notification-button {
-  transition-duration: 100ms;
-  min-height: 36px;
+  min-height: 32px;
+  min-width: 48px;
+  padding: 0 8px;
+  border: 0;
   border-radius: 0px;
+  font-size: 10.5pt;
+  font-weight: 500;
   background-color: transparent;
   color: rgba(235, 235, 235, 0.7);
-  font-weight: 500;
+  box-shadow: 0 0 transparent;
+  text-shadow: none;
+  icon-shadow: none;
+  transition-duration: 100ms;
 }
 
 .notification-banner .notification-button:first-child {
-  border-radius: 0px 0px, 0px, 4px;
+  border-radius: 0px 0px 0px 4px;
 }
 
 .notification-banner .notification-button:last-child {
-  border-radius: 0px, 0px, 4px, 0px;
+  border-radius: 0px 0px 4px 0px;
 }
 
 .notification-banner .notification-button:first-child:last-child {
-  border-radius: 0px, 0px, 4px, 4px;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .notification-banner .notification-button:hover, .notification-banner .notification-buttonfocus {
