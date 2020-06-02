@@ -300,24 +300,14 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* Switches */
 .toggle-switch {
+  color: inherit;
   width: 40px;
   height: 20px;
   background-size: contain;
-}
-
-.toggle-switch-us {
   background-image: url("assets/toggle-off.svg");
 }
 
-.toggle-switch-us:checked {
-  background-image: url("assets/toggle-on.svg");
-}
-
-.toggle-switch-intl {
-  background-image: url("assets/toggle-off.svg");
-}
-
-.toggle-switch-intl:checked {
+.toggle-switch:checked {
   background-image: url("assets/toggle-on.svg");
 }
 
@@ -821,12 +811,26 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-separator-menu-item {
+  padding: 0;
+}
+
+.popup-separator-menu-item .popup-separator-menu-item-separator {
   height: 1px;
-  margin: 8px 40px;
+  margin: 8px 0;
   background-color: transparent;
-  border-color: rgba(0, 0, 0, 0.12);
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
+}
+
+.popup-sub-menu .popup-separator-menu-item .popup-separator-menu-item-separator {
+  margin: 8px 0;
+  background-color: transparent;
+}
+
+.popup-sub-menu .popup-separator-menu-item .popup-separator-menu-item-separator:ltr {
+  margin-right: 32px;
+}
+
+.popup-sub-menu .popup-separator-menu-item .popup-separator-menu-item-separator:rtl {
+  margin-left: 32px;
 }
 
 .background-menu {
@@ -957,12 +961,16 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   spacing: 8px;
 }
 
-.ws-switcher-active-up, .ws-switcher-active-down {
+.ws-switcher-active-up,
+.ws-switcher-active-down,
+.ws-switcher-active-left,
+.ws-switcher-active-right {
   height: 48px;
   background-color: #1c1c1c;
   color: white;
   background-size: 32px;
   border-radius: 4px;
+  border-color: transparent;
 }
 
 .ws-switcher-box {
@@ -1078,6 +1086,16 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   icon-shadow: none;
 }
 
+#panel .panel-button.clock-display:active, #panel .panel-button.clock-display:overview, #panel .panel-button.clock-display:focus, #panel .panel-button.clock-display:checked {
+  box-shadow: none;
+  background-color: transparent;
+}
+
+#panel .panel-button.clock-display:active .clock, #panel .panel-button.clock-display:overview .clock, #panel .panel-button.clock-display:focus .clock, #panel .panel-button.clock-display:checked .clock {
+  box-shadow: inset 0 -2px 0px white;
+  background-color: rgba(0, 0, 0, 0.01);
+}
+
 #panel .panel-button .system-status-icon {
   icon-size: 1.14286em;
   padding: 0 4px;
@@ -1147,23 +1165,21 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   icon-shadow: none;
 }
 
-#calendarArea {
-  padding: 8px 16px;
-}
-
 .calendar {
   margin-bottom: 0;
+  background-color: transparent;
+  border-color: transparent;
 }
 
 .calendar,
 .datemenu-today-button,
 .datemenu-displays-box,
 .message-list-sections {
-  margin: 0 8px;
+  margin: 0px 0px;
 }
 
 .datemenu-calendar-column {
-  spacing: 8px;
+  spacing: 0px;
 }
 
 .datemenu-displays-section {
@@ -1171,11 +1187,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .datemenu-displays-box {
-  spacing: 8px;
+  spacing: 0px;
 }
 
 .datemenu-calendar-column {
-  border: 0 solid rgba(0, 0, 0, 0.12);
+  border: 0 solid rgba(0, 0, 0, 0.26);
 }
 
 .datemenu-calendar-column:ltr {
@@ -1305,6 +1321,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-day-base {
+  color: inherit;
   transition-duration: 100ms;
   font-size: 9pt;
   font-weight: 400;
@@ -1367,6 +1384,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .calendar-today {
   font-weight: bold !important;
   border: none;
+  color: white;
+  background-color: #1c1c1c;
 }
 
 .calendar-day-with-events {
@@ -1830,6 +1849,10 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   color: white;
 }
 
+.search-entry StLabel.hint-text {
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .search-entry .search-entry-icon {
   icon-size: 16px;
   padding: 0 0;
@@ -1969,12 +1992,14 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .app-view-control:hover {
   color: white;
-  background-color: rgba(255, 255, 255, 0.08) !important;
+  background-color: rgba(0, 0, 0, 0.01) !important;
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.7);
 }
 
 .app-view-control:active {
   color: white;
-  background-color: rgba(255, 255, 255, 0.2) !important;
+  background-color: rgba(0, 0, 0, 0.01) !important;
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.7);
 }
 
 .app-view-control:checked {
@@ -1985,7 +2010,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .app-view-control:first-child {
   border-right-width: 0;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 
 .app-view-control:first-child:checked {
@@ -1993,7 +2018,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:last-child {
-  border-radius: 4px;
+  border-radius: 0px;
 }
 
 .app-view-control:last-child:checked {
@@ -2108,13 +2133,13 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   height: 12px;
   border-radius: 12px;
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.9);
   transition-duration: 100ms;
 }
 
 .page-indicator:hover .page-indicator-icon {
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .page-indicator:active .page-indicator-icon {
