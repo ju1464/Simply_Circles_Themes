@@ -111,7 +111,7 @@ stage {
 }
 
 .modal-dialog-linked-button:active {
-  color: #ebebeb;
+  color: #1c1c1c;
   background-color: rgba(28, 28, 28, 0.2);
   border-color: transparent;
   box-shadow: 0 0 transparent;
