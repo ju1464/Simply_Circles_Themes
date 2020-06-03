@@ -1385,12 +1385,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .calendar-today {
   font-weight: bold !important;
   border: none;
-  background-color: #5BEEDC;
-
+  background-color: transparent;
 }
 
 .calendar-day-with-events {
-  color: #6e15e2;
+  color: #5BEEDC;
   font-weight: normal;
   text-decoration: underline;
   background-image: none;
@@ -2285,7 +2284,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .notification-banner .notification-button:active {
   transition-duration: 200ms;
   background-color: rgba(235, 235, 235, 0.2);
-  color: #1c1c1c;
+  color: #ebebeb;
 }
 
 .summary-source-counter {

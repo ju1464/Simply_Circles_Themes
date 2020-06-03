@@ -1384,12 +1384,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .calendar-today {
   font-weight: bold !important;
   border: none;
-  color: white;
-  background-color: #1c1c1c;
+  color: black;
+  background-color: transparent;
 }
 
 .calendar-day-with-events {
-  color: #6e15e2;
+  color: #4D4D4D;
   font-weight: normal;
   text-decoration: underline;
   background-image: none;
