@@ -1175,7 +1175,6 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .calendar {
   margin-bottom: 0;
   background-color: transparent;
-  border-color: transparent;
 }
 
 .calendar,
@@ -1183,6 +1182,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .datemenu-displays-box,
 .message-list-sections {
   margin: 0px 0px;
+  border-color: transparent;
 }
 
 .datemenu-calendar-column {
@@ -1427,6 +1427,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .message-list-clear-button.button {
   background-color: transparent;
   margin: 8px 8px 0;
+  border-color: transparent;
 }
 
 .message-list-clear-button.button:hover, .message-list-clear-button.button:focus {
@@ -1451,6 +1452,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   min-height: 64px;
   background-color: transparent;
   border-radius: 4px;
+  border-color: transparent;
 }
 
 .message:hover, .message:focus {
@@ -1968,7 +1970,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 /* App Vault/Grid */
 .icon-grid {
-  spacing: 30px;
+  spacing: 10px;
   -shell-grid-horizontal-item-size: 136px;
   -shell-grid-vertical-item-size: 136px;
 }
@@ -2137,27 +2139,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .page-indicator .page-indicator-icon {
   width: 12px;
   height: 12px;
-  background-image: none;
-  background-color: white;
-  transition-duration: 100ms;
-}
-
-.page-indicator:hover .page-indicator-icon {
-  background-image: none;
-  background-color: #186A3B;
-  border-color: #186A3B;
-}
-
-.page-indicator:active .page-indicator-icon,
-.page-indicator:checked .page-indicator-icon {
-  background-image: none;
+  border-radius: 12px;
   background-color: #2CA02C;
-  border-color: #2CA02C;
-  transition-duration: 0ms;
-}
-
-.page-indicator:checked:active {
-  background-image: none;
 }
 
 .app-well-app > .overview-icon.overview-icon-with-label,
