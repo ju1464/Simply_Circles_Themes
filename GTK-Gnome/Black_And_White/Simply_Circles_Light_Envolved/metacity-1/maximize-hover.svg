@@ -54,7 +54,7 @@
        id="path2"
        d="M 0,0 H 16 V 16 H 0 Z" />
     <path
-       style="fill:#b3b3b3;fill-rule:evenodd"
+       style="fill:#4c4c4c;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path4"
        d="M 8,1.043 A 6.957,6.957 0 1 0 8,14.957 6.957,6.957 0 0 0 8,1.043 Z m 0,2.54 a 4.417,4.417 0 1 1 0,8.834 4.417,4.417 0 0 1 0,-8.834 z m 0,1.27 a 3.147,3.147 0 1 0 0,6.294 3.147,3.147 0 0 0 0,-6.294 z" />
