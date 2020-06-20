@@ -6222,7 +6222,11 @@ calendar.raven-calendar:selected {
 }
 
 .xfce4-panel.background .tasklist button {
-  border-image: image(transparent) 0 0 2/0 0 2px;
+  background-color: transparent;
+}
+
+.xfce4-panel.background .tasklist button:hover {
+  background-color: transparent;
 }
 
 .xfce4-panel.background .tasklist button:checked {
