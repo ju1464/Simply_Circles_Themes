@@ -6395,7 +6395,11 @@ XfdesktopIconView.view .rubberband {
 }
 
 .nemo-window .nemo-inactive-pane .view:not(:selected) {
-  background-color: #ffffff;
+  background-color: rgba(160, 44, 44, 0.1);
+}
+
+.nemo-window .sidebar {
+  background-color: rgba(160, 44, 44, 0.4);
 }
 
 /* GTK NAMED COLORS
