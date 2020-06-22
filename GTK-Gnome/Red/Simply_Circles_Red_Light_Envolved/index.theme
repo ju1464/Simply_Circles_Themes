@@ -7,7 +7,7 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 Name=Simply Circles Red Light Envolved
 GtkTheme=Simply_Circles_Red_Light_Envolved
-MetacityTheme=Simply_Circles_Red_Light_Envolved
+MetacityTheme=Simply_Circles_Red
 IconTheme=Simply-Red-Circles
 CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close

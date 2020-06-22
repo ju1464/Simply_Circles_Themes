@@ -7,7 +7,7 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 Name=Simply Circles Green Light
 GtkTheme=Simply_Circles_Green_Light
-MetacityTheme=Simply_Circles_Green_Light
+MetacityTheme=Simply_Circles_Green
 IconTheme=Simply-Green-Circles
 CursorTheme=DMZ-Black
 ButtonLayout=:minimize,maximize,close
